@@ -1,10 +1,10 @@
 import type { Metadata, Viewport } from 'next';
-import { Fraunces, Inter } from 'next/font/google';
+import { Fraunces, Figtree } from 'next/font/google';
 import './globals.css';
 import { BIZ } from '@/content';
 
 const fraunces = Fraunces({ subsets: ['latin'], variable: '--font-fraunces', axes: ['SOFT', 'opsz'] });
-const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
+const inter = Figtree({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
   title: 'Vaith Furniture | Sofas, chairs & office furniture in Ikeja, Lagos',

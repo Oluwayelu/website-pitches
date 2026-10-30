@@ -1,0 +1,2807 @@
+{
+ "url": "http://localhost:4645/",
+ "at": "2026-10-30T20:01:51.258Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.87,
+    0.58,
+    0.84,
+    0.29,
+    0.54,
+    0.87
+   ],
+   "motion": {
+    "elements": 14,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 13,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5028,
+     "screens": 5.6,
+     "words": 449,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 55,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "l1.webp",
+      "c1.webp",
+      "c2.webp",
+      "l1.webp",
+      "l2.webp",
+      "l3.webp",
+      "l4.webp",
+      "sold.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Find your key to Lekki living.",
+     "words": 6,
+     "chars": 30,
+     "lines": 2,
+     "size": 73.6,
+     "vw": 5.1,
+     "font": "Newsreader",
+     "weight": 500,
+     "tracking": 0,
+     "leading": 1.04,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.43,
+     "top": 204,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Find your key to Lekki living.",
+     "words": 6,
+     "lines": 2,
+     "size": 73.6,
+     "font": "Newsreader"
+    },
+    "headings": [
+     {
+      "text": "Find your key to Lekki living.",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 73.6,
+      "vw": 5.1,
+      "font": "Newsreader",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 204,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "4+",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.11,
+      "top": 506,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Homes on the market now.",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 1101,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "“It’s key time.” Sold.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.47,
+      "top": 2387,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate broker & property management.",
+      "words": 6,
+      "chars": 41,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 3040,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "“There’s a difference between selling property and guiding people home… property decisions should feel confident, not complicated.”",
+      "words": 17,
+      "chars": 131,
+      "lines": 3,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.38,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.53,
+      "top": 3422,
+      "tag": "blockquote",
+      "kind": "statement"
+     },
+     {
+      "text": "Buying, in three steps.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 3693,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.02,
+      "top": 3813,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.02,
+      "top": 3813,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "3",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 3813,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Ready when you are, Amaka is one tap away.",
+      "words": 9,
+      "chars": 42,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 4417,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 3,
+     "over2Lines": 0,
+     "statements": 5,
+     "centered": 2,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.67,
+       "mono": false
+      },
+      {
+       "family": "Newsreader",
+       "share": 0.33,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      26,
+      30,
+      48,
+      74
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.63,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.3
+     },
+     "measureChars": 57,
+     "max": {
+      "size": 73.6,
+      "vw": 5.1,
+      "font": "Newsreader",
+      "text": "Find your key"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.17,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f5f0",
+     "bodyBgHsl": {
+      "h": 43,
+      "s": 0.3,
+      "l": 0.95
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0e1b2c",
+       "top": 118,
+       "hsl": {
+        "h": 214,
+        "s": 0.52,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#f7f5f0",
+       "top": 3693,
+       "hsl": {
+        "h": 43,
+        "s": 0.3,
+        "l": 0.95
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0e1b2c",
+       "share": 0.31
+      },
+      {
+       "color": "#5b6676",
+       "share": 0.25
+      },
+      {
+       "color": "#f7f5f0",
+       "share": 0.11
+      },
+      {
+       "color": "#f7f6f0",
+       "share": 0.08
+      },
+      {
+       "color": "#c9a15b",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#0e1b2c",
+      "hsl": {
+       "h": 214,
+       "s": 0.52,
+       "l": 0.11
+      },
+      "fg": "#f7f5f0"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Enquire with Amaka",
+      "View listings",
+      "Search"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 13,
+     "boxRadius": 16,
+     "squareMedia": 0,
+     "roundedMedia": 7,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 1197
+      },
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 3136
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 4585
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 82,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "newsreader",
+     "newsreader fallback",
+     "manrope",
+     "manrope fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5028,
+    "margins": {
+     "left": 112,
+     "right": 112
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.bg-navy",
+      "tag": "section",
+      "top": 118,
+      "height": 677,
+      "words": 43,
+      "media": 3,
+      "middle": 12,
+      "heading": {
+       "text": "Find your key",
+       "size": 74,
+       "tag": "h1"
+      },
+      "left": 112,
+      "right": 133,
+      "textLeft": 112,
+      "textRight": 155,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-paper.pt-24",
+      "tag": "section",
+      "top": 731,
+      "height": 246,
+      "words": 20,
+      "media": 0,
+      "middle": 184,
+      "heading": null,
+      "left": 112,
+      "right": 230,
+      "textLeft": 112,
+      "textRight": 230,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#listings.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 977,
+      "height": 1118,
+      "words": 117,
+      "media": 4,
+      "middle": 24,
+      "heading": {
+       "text": "Homes on the market now.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#sold.bg-navy.py-20",
+      "tag": "section",
+      "top": 2094,
+      "height": 821,
+      "words": 27,
+      "media": 1,
+      "middle": 115,
+      "heading": {
+       "text": "“It’s key time.”",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 147,
+      "right": 354,
+      "textLeft": 646,
+      "textRight": 354,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 2916,
+      "height": 778,
+      "words": 72,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Real estate broker & property management.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 148,
+      "textLeft": 112,
+      "textRight": 148,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#process.bg-paper.pb-20",
+      "tag": "section",
+      "top": 3693,
+      "height": 600,
+      "words": 52,
+      "media": 0,
+      "middle": 6,
+      "heading": {
+       "text": "Buying, in three steps.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 199,
+      "textLeft": 112,
+      "textRight": 199,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.bg-navy.py-20",
+      "tag": "section",
+      "top": 4293,
+      "height": 604,
+      "words": 25,
+      "media": 0,
+      "middle": 239,
+      "heading": {
+       "text": "Ready when you are,",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 184,
+      "textLeft": 112,
+      "textRight": 184,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#091422].px-5",
+      "tag": "footer",
+      "top": 4897,
+      "height": 130,
+      "words": 19,
+      "media": 0,
+      "middle": 180,
+      "heading": {
+       "text": "EYS",
+       "size": 26,
+       "tag": "span"
+      },
+      "left": 80,
+      "right": 80,
+      "textLeft": 80,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Find your key to Lekki living.",
+      "size": 74,
+      "top": 204,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 112,
+      "n": 8
+     },
+     {
+      "x": 144,
+      "n": 2
+     },
+     {
+      "x": 442,
+      "n": 2
+     },
+     {
+      "x": 752,
+      "n": 2
+     },
+     {
+      "x": 1057,
+      "n": 2
+     },
+     {
+      "x": 132,
+      "n": 1
+     },
+     {
+      "x": 194,
+      "n": 1
+     },
+     {
+      "x": 378,
+      "n": 1
+     },
+     {
+      "x": 536,
+      "n": 1
+     },
+     {
+      "x": 646,
+      "n": 1
+     },
+     {
+      "x": 944,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 22,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 0,
+     "y": 540,
+     "w": 780,
+     "h": 120
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    1,
+    0.59,
+    0.89,
+    0.85,
+    0.29,
+    0.83,
+    0.92
+   ],
+   "motion": {
+    "elements": 14,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 13,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 6298,
+     "screens": 6.2,
+     "words": 444,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 55,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "l1.webp",
+      "c1.webp",
+      "c2.webp",
+      "l1.webp",
+      "l2.webp",
+      "l3.webp",
+      "l4.webp",
+      "sold.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Find your key to Lekki living.",
+     "words": 6,
+     "chars": 30,
+     "lines": 2,
+     "size": 60,
+     "vw": 7.8,
+     "font": "Newsreader",
+     "weight": 500,
+     "tracking": 0,
+     "leading": 1.04,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 177,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Find your key to Lekki living.",
+     "words": 6,
+     "lines": 2,
+     "size": 60,
+     "font": "Newsreader"
+    },
+    "headings": [
+     {
+      "text": "MKEYS",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 26.4,
+      "vw": 3.4,
+      "font": "Newsreader",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.17,
+      "top": 71,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your key to Lekki living.",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 60,
+      "vw": 7.8,
+      "font": "Newsreader",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 177,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "4+",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.21,
+      "top": 890,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Homes on the market now.",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.71,
+      "top": 1954,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "“It’s key time.” Sold.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.52,
+      "top": 3667,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate broker & property management.",
+      "words": 6,
+      "chars": 41,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4193,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "“There’s a difference between selling property and guiding people home… property decisions should feel confident, not complicated.”",
+      "words": 17,
+      "chars": 131,
+      "lines": 3,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.38,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4736,
+      "tag": "blockquote",
+      "kind": "statement"
+     },
+     {
+      "text": "Buying, in three steps.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4976,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.04,
+      "top": 5096,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.04,
+      "top": 5096,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "3",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 5096,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Ready when you are, Amaka is one tap away.",
+      "words": 9,
+      "chars": 42,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 5688,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MKEYS",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 26.4,
+      "vw": 3.4,
+      "font": "Newsreader",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.17,
+      "top": 6208,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 3,
+     "over2Lines": 0,
+     "statements": 5,
+     "centered": 2,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.66,
+       "mono": false
+      },
+      {
+       "family": "Newsreader",
+       "share": 0.34,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      26,
+      30,
+      48,
+      60
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.63,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.3
+     },
+     "measureChars": 57,
+     "max": {
+      "size": 60,
+      "vw": 7.8,
+      "font": "Newsreader",
+      "text": "Find your key"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.18,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f5f0",
+     "bodyBgHsl": {
+      "h": 43,
+      "s": 0.3,
+      "l": 0.95
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0e1b2c",
+       "top": 137,
+       "hsl": {
+        "h": 214,
+        "s": 0.52,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#f7f5f0",
+       "top": 1538,
+       "hsl": {
+        "h": 43,
+        "s": 0.3,
+        "l": 0.95
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0e1b2c",
+       "share": 0.32
+      },
+      {
+       "color": "#5b6676",
+       "share": 0.25
+      },
+      {
+       "color": "#f7f5f0",
+       "share": 0.11
+      },
+      {
+       "color": "#f7f6f0",
+       "share": 0.08
+      },
+      {
+       "color": "#c9a15b",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#0e1b2c",
+      "hsl": {
+       "h": 214,
+       "s": 0.52,
+       "l": 0.11
+      },
+      "fg": "#f7f5f0"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Enquire with Amaka",
+      "View listings"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 13,
+     "boxRadius": 16,
+     "squareMedia": 0,
+     "roundedMedia": 7,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 2050
+      },
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 4337
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 5856
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.14
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 82,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "newsreader",
+     "newsreader fallback",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 6298,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.bg-navy",
+      "tag": "section",
+      "top": 137,
+      "height": 1465,
+      "words": 43,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Find your key",
+       "size": 60,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 52,
+      "textLeft": 32,
+      "textRight": 150,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-paper.pt-24",
+      "tag": "section",
+      "top": 1538,
+      "height": 324,
+      "words": 20,
+      "media": 0,
+      "middle": 231,
+      "heading": null,
+      "left": 32,
+      "right": 204,
+      "textLeft": 32,
+      "textRight": 204,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-12.grid",
+      "tag": "div",
+      "top": 2050,
+      "height": 1122,
+      "words": 89,
+      "media": 4,
+      "middle": 24,
+      "heading": {
+       "text": "Contemporary 3-bedroom terrace duplex",
+       "size": 18,
+       "tag": "h3"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 48,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-14.rounded-2xl",
+      "tag": "div",
+      "top": 3228,
+      "height": 220,
+      "words": 21,
+      "media": 0,
+      "middle": 133,
+      "heading": null,
+      "left": 89,
+      "right": 222,
+      "textLeft": 89,
+      "textRight": 222,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#sold.bg-navy.py-20",
+      "tag": "section",
+      "top": 3528,
+      "height": 573,
+      "words": 27,
+      "media": 1,
+      "middle": 40,
+      "heading": {
+       "text": "“It’s key time.”",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 97,
+      "textLeft": 338,
+      "textRight": 97,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 4101,
+      "height": 875,
+      "words": 72,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Real estate broker & property management.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 48,
+      "textLeft": 32,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#process.bg-paper.pb-20",
+      "tag": "section",
+      "top": 4976,
+      "height": 620,
+      "words": 52,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buying, in three steps.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 42,
+      "textLeft": 32,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.bg-navy.py-20",
+      "tag": "section",
+      "top": 5596,
+      "height": 572,
+      "words": 25,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ready when you are,",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 68,
+      "textLeft": 32,
+      "textRight": 68,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#091422].px-5",
+      "tag": "footer",
+      "top": 6168,
+      "height": 130,
+      "words": 19,
+      "media": 0,
+      "middle": 28,
+      "heading": {
+       "text": "EYS",
+       "size": 26,
+       "tag": "span"
+      },
+      "left": 32,
+      "right": 55,
+      "textLeft": 32,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Find your key to Lekki living.",
+      "size": 60,
+      "top": 177,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 8
+     },
+     {
+      "x": 52,
+      "n": 5
+     },
+     {
+      "x": 413,
+      "n": 4
+     },
+     {
+      "x": 338,
+      "n": 2
+     },
+     {
+      "x": 99,
+      "n": 1
+     },
+     {
+      "x": 249,
+      "n": 1
+     },
+     {
+      "x": 456,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 22,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    1,
+    0.9,
+    0.67,
+    0.8,
+    0.84,
+    0.83,
+    0.91,
+    0.31,
+    0.37,
+    0.92,
+    1
+   ],
+   "motion": {
+    "elements": 14,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 13,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 8930,
+     "screens": 10.6,
+     "words": 442,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 55,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "l1.webp",
+      "c1.webp",
+      "c2.webp",
+      "l1.webp",
+      "l2.webp",
+      "l3.webp",
+      "l4.webp",
+      "sold.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Find your key to Lekki living.",
+     "words": 6,
+     "chars": 30,
+     "lines": 2,
+     "size": 44.8,
+     "vw": 11.5,
+     "font": "Newsreader",
+     "weight": 500,
+     "tracking": 0,
+     "leading": 1.04,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 196,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Find your key to Lekki living.",
+     "words": 6,
+     "lines": 2,
+     "size": 44.8,
+     "font": "Newsreader"
+    },
+    "headings": [
+     {
+      "text": "MKEYS",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 26.4,
+      "vw": 6.8,
+      "font": "Newsreader",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 90,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your key to Lekki living.",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 44.8,
+      "vw": 11.5,
+      "font": "Newsreader",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 196,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "4+",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 824,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Homes on the market now.",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1939,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "₦115M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 2295,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "₦250M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 2863,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "₦160M / ₦200M",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 3431,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Price on enquiry",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 3999,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "“It’s key time.” Sold.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5439,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate broker & property management.",
+      "words": 6,
+      "chars": 41,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5837,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Buy",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 6028,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Sell",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 6201,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Rent & lease",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 6348,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Property management",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 6495,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "“There’s a difference between selling property and guiding people home… property decisions should feel confident, not complicated.”",
+      "words": 17,
+      "chars": 131,
+      "lines": 5,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.38,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6669,
+      "tag": "blockquote",
+      "kind": "statement"
+     },
+     {
+      "text": "Buying, in three steps.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6950,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 7068,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 7244,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "3",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 7420,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Client testimonials go here",
+      "words": 4,
+      "chars": 27,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 7652,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Ready when you are, Amaka is one tap away.",
+      "words": 9,
+      "chars": 42,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7960,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "0816 552 5524",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 8168,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "0816 552 5524",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Newsreader",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 8328,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "MKEYS",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 26.4,
+      "vw": 6.8,
+      "font": "Newsreader",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 8720,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 24,
+     "maxLines": 5,
+     "over2Lines": 0,
+     "statements": 12,
+     "centered": 3,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.66,
+       "mono": false
+      },
+      {
+       "family": "Newsreader",
+       "share": 0.34,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      26,
+      30,
+      45,
+      48
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.63,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 16
+     },
+     "measureChars": 29,
+     "max": {
+      "size": 48,
+      "vw": 12.3,
+      "font": "Newsreader",
+      "text": "1"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.18,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f5f0",
+     "bodyBgHsl": {
+      "h": 43,
+      "s": 0.3,
+      "l": 0.95
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0e1b2c",
+       "top": 156,
+       "hsl": {
+        "h": 214,
+        "s": 0.52,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#16273d",
+       "top": 1165,
+       "hsl": {
+        "h": 214,
+        "s": 0.47,
+        "l": 0.16
+       }
+      },
+      {
+       "color": "#f7f5f0",
+       "top": 1517,
+       "hsl": {
+        "h": 43,
+        "s": 0.3,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 2077,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0e1b2c",
+       "share": 0.31
+      },
+      {
+       "color": "#5b6676",
+       "share": 0.25
+      },
+      {
+       "color": "#f7f5f0",
+       "share": 0.11
+      },
+      {
+       "color": "#f7f6f0",
+       "share": 0.08
+      },
+      {
+       "color": "#c9a15b",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#0e1b2c",
+      "hsl": {
+       "h": 214,
+       "s": 0.52,
+       "l": 0.11
+      },
+      "fg": "#f7f5f0"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Enquire",
+      "View listings"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 12,
+     "boxRadius": 16,
+     "squareMedia": 0,
+     "roundedMedia": 7,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 2077
+      },
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 5976
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 8084
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.16
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 82,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "newsreader",
+     "newsreader fallback",
+     "manrope",
+     "manrope fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 8930,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "div.pointer-events-none.absolute",
+      "tag": "div",
+      "top": 156,
+      "height": 1425,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.relative.mx-auto",
+      "tag": "div",
+      "top": 156,
+      "height": 1009,
+      "words": 37,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Find your key",
+       "size": 45,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 37,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "form.relative.z-10",
+      "tag": "form",
+      "top": 1165,
+      "height": 416,
+      "words": 6,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 36,
+      "right": 36,
+      "textLeft": 36,
+      "textRight": 159,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-paper.pt-24",
+      "tag": "section",
+      "top": 1517,
+      "height": 330,
+      "words": 20,
+      "media": 0,
+      "middle": 35,
+      "heading": null,
+      "left": 20,
+      "right": 21,
+      "textLeft": 20,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-12.grid",
+      "tag": "div",
+      "top": 2077,
+      "height": 2273,
+      "words": 89,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "₦115M",
+       "size": 24,
+       "tag": "p"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 36,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-14.rounded-2xl",
+      "tag": "div",
+      "top": 4405,
+      "height": 324,
+      "words": 21,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 69,
+      "right": 122,
+      "textLeft": 69,
+      "textRight": 122,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#sold.bg-navy.py-20",
+      "tag": "section",
+      "top": 4809,
+      "height": 936,
+      "words": 27,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 35,
+      "textLeft": 20,
+      "textRight": 37,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 5745,
+      "height": 1205,
+      "words": 72,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Real estate broker & property management.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 25,
+      "textLeft": 20,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#process.bg-paper.pb-20",
+      "tag": "section",
+      "top": 6950,
+      "height": 918,
+      "words": 52,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buying, in three steps.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 59,
+      "textLeft": 20,
+      "textRight": 59,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.bg-navy.py-20",
+      "tag": "section",
+      "top": 7868,
+      "height": 812,
+      "words": 25,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ready when you are,",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 25,
+      "textLeft": 20,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#091422].px-5",
+      "tag": "footer",
+      "top": 8680,
+      "height": 250,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "EYS",
+       "size": 26,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 60,
+      "textLeft": 20,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Find your key to Lekki living.",
+      "size": 45,
+      "top": 196,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 9
+     },
+     {
+      "x": 40,
+      "n": 9
+     },
+     {
+      "x": 70,
+      "n": 1
+     },
+     {
+      "x": 111,
+      "n": 1
+     },
+     {
+      "x": 182,
+      "n": 1
+     },
+     {
+      "x": 208,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 22,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "card-rows",
+   "width": 1440,
+   "message": "3 rows of identical boxed cards.",
+   "fix": "Vary the composition; not every section is a card grid.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f7f5f0, section #f7f5f0, text #f7f5f0).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 1440,
+   "message": "The running text is a soft grey on its ground (5.3:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 1440,
+   "message": "Left-aligned text starts at 11 different lines (112px, 144px, 442px, 752px, 1057px, 132px, 194px); the three most used hold only 55% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 14 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "WARN",
+   "id": "statement-length",
+   "width": 390,
+   "message": "1 large-set statement(s) run past 4 lines at 390px: \"“There’s a difference between selling pr…\" → 5 lines at 24px",
+   "fix": "A statement set large is about 30 words. Cut it, or set the rest as ordinary body text."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/02-mkeys-properties/screens/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/02-mkeys-properties/screens/inspect/desktop-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/02-mkeys-properties/screens/inspect/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/02-mkeys-properties/screens/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/02-mkeys-properties/screens/inspect/tablet-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/02-mkeys-properties/screens/inspect/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/02-mkeys-properties/screens/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/02-mkeys-properties/screens/inspect/mobile-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/02-mkeys-properties/screens/inspect/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

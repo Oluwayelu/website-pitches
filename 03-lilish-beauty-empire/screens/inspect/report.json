@@ -1,0 +1,3148 @@
+{
+ "url": "http://localhost:4793/",
+ "at": "2026-10-30T20:03:32.022Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.83,
+    0.74,
+    1,
+    0.66,
+    0.73,
+    0.55,
+    0.59,
+    0.88
+   ],
+   "motion": {
+    "elements": 35,
+    "css": 1,
+    "transitions": 1,
+    "scripted": 33,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6839,
+     "screens": 7.6,
+     "words": 360,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 45,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 15,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "koboko.webp",
+      "cornrow.webp",
+      "henna.webp",
+      "cornrow.webp",
+      "diffuser.webp",
+      "cornrow.webp",
+      "koboko.webp",
+      "henna.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your hair-ven in Port Harcourt.",
+     "words": 5,
+     "chars": 31,
+     "lines": 2,
+     "size": 73.6,
+     "vw": 5.1,
+     "font": "Cormorant Garamond",
+     "weight": 500,
+     "tracking": 0,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.43,
+     "top": 195,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your hair-ven in Port Harcourt.",
+     "words": 5,
+     "lines": 2,
+     "size": 73.6,
+     "font": "Cormorant Garamond"
+    },
+    "headings": [
+     {
+      "text": "Lı lish Lilish",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.04,
+      "top": 51,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Your hair-ven in Port Harcourt.",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 73.6,
+      "vw": 5.1,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 195,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Lemme be your hair-ven baby.",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 826,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Spa & Massage",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.14,
+      "top": 1083,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Hair Salon",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.17,
+      "top": 1339,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Human Hair",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.1,
+      "top": 1339,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Decor & Fragrance",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.14,
+      "top": 1595,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Event Hall",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.12,
+      "top": 1595,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Everything, in one place.",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 1911,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "From our reels.",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 2943,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Take a little Lilish home.",
+      "words": 5,
+      "chars": 26,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 4333,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Human hair",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.17,
+      "top": 4453,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Fragrance diffusers",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 4453,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Celebrate at Lilish.",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.4,
+      "top": 5063,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your reviews from Instagram go here",
+      "words": 6,
+      "chars": 35,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.54,
+      "top": 5565,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Come get your hair done.",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 5949,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Lı lish Lilish",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.04,
+      "top": 6745,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.7,
+       "mono": false
+      },
+      {
+       "family": "Cormorant Garamond",
+       "share": 0.3,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      24,
+      30,
+      32,
+      48,
+      74
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9
+     },
+     "measureChars": 206,
+     "max": {
+      "size": 73.6,
+      "vw": 5.1,
+      "font": "Cormorant Garamond",
+      "text": "Your hair-ven"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.13,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fff9f4",
+     "bodyBgHsl": {
+      "h": 27,
+      "s": 1,
+      "l": 0.98
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#3e1f33",
+       "top": 121,
+       "hsl": {
+        "h": 321,
+        "s": 0.33,
+        "l": 0.18
+       }
+      },
+      {
+       "color": "#fbebe7",
+       "top": 1787,
+       "hsl": {
+        "h": 12,
+        "s": 0.71,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#f4d9d3",
+       "top": 5825,
+       "hsl": {
+        "h": 11,
+        "s": 0.6,
+        "l": 0.89
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#3e1f33",
+       "share": 0.36
+      },
+      {
+       "color": "#fff9f4",
+       "share": 0.29
+      },
+      {
+       "color": "#86643a",
+       "share": 0.18
+      },
+      {
+       "color": "#5a3350",
+       "share": 0.09
+      },
+      {
+       "color": "#fffaf4",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#c8a97e",
+      "hsl": {
+       "h": 35,
+       "s": 0.4,
+       "l": 0.64
+      },
+      "fg": "#3e1f33"
+     },
+     "lowContrast": [
+      {
+       "text": "Product photo",
+       "ratio": 1.9,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#86643a",
+       "bg": "#5a3350"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book on WhatsApp",
+      "Book on WhatsApp"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 14,
+     "boxRadius": 24,
+     "squareMedia": 0,
+     "roundedMedia": 12,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 8,
+     "fixed": true,
+     "height": 86,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "cormorant garamond",
+     "dm sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6839,
+    "margins": {
+     "left": 112,
+     "right": 112
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 121,
+      "height": 516,
+      "words": 23,
+      "media": 3,
+      "middle": 177,
+      "heading": {
+       "text": "Your hair-ven",
+       "size": 74,
+       "tag": "h1"
+      },
+      "left": 112,
+      "right": 129,
+      "textLeft": 112,
+      "textRight": 827,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#worlds.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 702,
+      "height": 1085,
+      "words": 37,
+      "media": 2,
+      "middle": 36,
+      "heading": {
+       "text": "Lemme be your",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 493,
+      "textLeft": 112,
+      "textRight": 493,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.bg-blush-2.py-20",
+      "tag": "section",
+      "top": 1787,
+      "height": 1032,
+      "words": 80,
+      "media": 0,
+      "middle": 274,
+      "heading": {
+       "text": "Everything,",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 124,
+      "textLeft": 112,
+      "textRight": 124,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#looks.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 2819,
+      "height": 1391,
+      "words": 4,
+      "media": 8,
+      "middle": 16,
+      "heading": {
+       "text": "From our",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#shop.bg-plum.py-20",
+      "tag": "section",
+      "top": 4209,
+      "height": 620,
+      "words": 29,
+      "media": 1,
+      "middle": 81,
+      "heading": {
+       "text": "Take a little",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 161,
+      "textLeft": 112,
+      "textRight": 161,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#hall.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 4829,
+      "height": 656,
+      "words": 27,
+      "media": 0,
+      "middle": 269,
+      "heading": {
+       "text": "Celebrate at",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 317,
+      "right": 275,
+      "textLeft": 317,
+      "textRight": 275,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.mx-auto.max-w-4xl",
+      "tag": "section",
+      "top": 5509,
+      "height": 316,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Your reviews from Instagram go here",
+       "size": 30,
+       "tag": "p"
+      },
+      "left": 526,
+      "right": 526,
+      "textLeft": 526,
+      "textRight": 526,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#visit.bg-blush.py-20",
+      "tag": "section",
+      "top": 5825,
+      "height": 880,
+      "words": 47,
+      "media": 1,
+      "middle": 88,
+      "heading": {
+       "text": "Come get your",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 264,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-plum.px-5",
+      "tag": "footer",
+      "top": 6705,
+      "height": 134,
+      "words": 15,
+      "media": 0,
+      "middle": 336,
+      "heading": {
+       "text": "lish",
+       "size": 32,
+       "tag": "span"
+      },
+      "left": 80,
+      "right": 80,
+      "textLeft": 80,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your hair-ven in Port Harcourt.",
+      "size": 74,
+      "top": 195,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 112,
+      "n": 10
+     },
+     {
+      "x": 748,
+      "n": 5
+     },
+     {
+      "x": 646,
+      "n": 4
+     },
+     {
+      "x": 132,
+      "n": 2
+     },
+     {
+      "x": 187,
+      "n": 1
+     },
+     {
+      "x": 300,
+      "n": 1
+     },
+     {
+      "x": 345,
+      "n": 1
+     },
+     {
+      "x": 399,
+      "n": 1
+     },
+     {
+      "x": 413,
+      "n": 1
+     },
+     {
+      "x": 435,
+      "n": 1
+     },
+     {
+      "x": 450,
+      "n": 1
+     },
+     {
+      "x": 568,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 31,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.1,
+    "voidBox": {
+     "x": 720,
+     "y": 720,
+     "w": 720,
+     "h": 180
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.94,
+    0.8,
+    1,
+    0.59,
+    0.84,
+    0.52,
+    0.81,
+    1
+   ],
+   "motion": {
+    "elements": 35,
+    "css": 1,
+    "transitions": 1,
+    "scripted": 33,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 7476,
+     "screens": 7.3,
+     "words": 353,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 45,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 15,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "koboko.webp",
+      "cornrow.webp",
+      "henna.webp",
+      "cornrow.webp",
+      "diffuser.webp",
+      "cornrow.webp",
+      "koboko.webp",
+      "henna.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your hair-ven in Port Harcourt.",
+     "words": 5,
+     "chars": 31,
+     "lines": 2,
+     "size": 60,
+     "vw": 7.8,
+     "font": "Cormorant Garamond",
+     "weight": 500,
+     "tracking": 0,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 181,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your hair-ven in Port Harcourt.",
+     "words": 5,
+     "lines": 2,
+     "size": 60,
+     "font": "Cormorant Garamond"
+    },
+    "headings": [
+     {
+      "text": "Lı lish Lilish",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 71,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Your hair-ven in Port Harcourt.",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 60,
+      "vw": 7.8,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 181,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Lemme be your hair-ven baby.",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1062,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Spa & Massage",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 1318,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Hair Salon",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 1574,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Human Hair",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.18,
+      "top": 1574,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Decor & Fragrance",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 1830,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Event Hall",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.22,
+      "top": 1830,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Everything, in one place.",
+      "words": 4,
+      "chars": 25,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2082,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "From our reels.",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 3303,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Take a little Lilish home.",
+      "words": 5,
+      "chars": 26,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4173,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Human hair",
+      "words": 2,
+      "chars": 10,
+      "lines": 2,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 4293,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Fragrance diffusers",
+      "words": 2,
+      "chars": 19,
+      "lines": 2,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.16,
+      "top": 4293,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Celebrate at Lilish.",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5345,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your reviews from Instagram go here",
+      "words": 6,
+      "chars": 35,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 5706,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Come get your hair done.",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6026,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Lı lish Lilish",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 7382,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.69,
+       "mono": false
+      },
+      {
+       "family": "Cormorant Garamond",
+       "share": 0.31,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      24,
+      30,
+      32,
+      48,
+      60
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9
+     },
+     "measureChars": 110,
+     "max": {
+      "size": 60,
+      "vw": 7.8,
+      "font": "Cormorant Garamond",
+      "text": "Your hair-ven"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.13,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fff9f4",
+     "bodyBgHsl": {
+      "h": 27,
+      "s": 1,
+      "l": 0.98
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#3e1f33",
+       "top": 141,
+       "hsl": {
+        "h": 321,
+        "s": 0.33,
+        "l": 0.18
+       }
+      },
+      {
+       "color": "#fbebe7",
+       "top": 1990,
+       "hsl": {
+        "h": 12,
+        "s": 0.71,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#f4d9d3",
+       "top": 5934,
+       "hsl": {
+        "h": 11,
+        "s": 0.6,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#fff9f4",
+       "top": 6107,
+       "hsl": {
+        "h": 27,
+        "s": 1,
+        "l": 0.98
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#3e1f33",
+       "share": 0.37
+      },
+      {
+       "color": "#fff9f4",
+       "share": 0.28
+      },
+      {
+       "color": "#86643a",
+       "share": 0.18
+      },
+      {
+       "color": "#5a3350",
+       "share": 0.09
+      },
+      {
+       "color": "#fffaf4",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#3e1f33",
+      "hsl": {
+       "h": 321,
+       "s": 0.33,
+       "l": 0.18
+      },
+      "fg": "#fff9f4"
+     },
+     "lowContrast": [
+      {
+       "text": "Product photo",
+       "ratio": 1.9,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#86643a",
+       "bg": "#5a3350"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book on WhatsApp",
+      "Book on WhatsApp"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 13,
+     "boxRadius": 24,
+     "squareMedia": 0,
+     "roundedMedia": 3,
+     "mediaRadius": 24,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 86,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "cormorant garamond",
+     "dm sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 7476,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 141,
+      "height": 765,
+      "words": 23,
+      "media": 3,
+      "middle": 7,
+      "heading": {
+       "text": "Your hair-ven",
+       "size": 60,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 157,
+      "textLeft": 32,
+      "textRight": 309,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#worlds.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 970,
+      "height": 1021,
+      "words": 37,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Lemme be your",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 157,
+      "textLeft": 32,
+      "textRight": 157,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.bg-blush-2.py-20",
+      "tag": "section",
+      "top": 1990,
+      "height": 1221,
+      "words": 80,
+      "media": 0,
+      "middle": 102,
+      "heading": {
+       "text": "Everything,",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 44,
+      "textLeft": 32,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#looks.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 3211,
+      "height": 870,
+      "words": 4,
+      "media": 8,
+      "middle": 16,
+      "heading": {
+       "text": "From our",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#shop.bg-plum.py-20",
+      "tag": "section",
+      "top": 4081,
+      "height": 604,
+      "words": 29,
+      "media": 1,
+      "middle": 24,
+      "heading": {
+       "text": "Take a little",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 73,
+      "textLeft": 32,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#hall.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 4685,
+      "height": 941,
+      "words": 27,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 32,
+      "right": 301,
+      "textLeft": 32,
+      "textRight": 301,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.mx-auto.max-w-4xl",
+      "tag": "section",
+      "top": 5650,
+      "height": 284,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Your reviews from Instagram go here",
+       "size": 30,
+       "tag": "p"
+      },
+      "left": 190,
+      "right": 190,
+      "textLeft": 190,
+      "textRight": 190,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#visit.bg-blush.py-20",
+      "tag": "section",
+      "top": 5934,
+      "height": 1408,
+      "words": 47,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Come get your",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 261,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-plum.px-5",
+      "tag": "footer",
+      "top": 7342,
+      "height": 134,
+      "words": 15,
+      "media": 0,
+      "middle": 48,
+      "heading": {
+       "text": "lish",
+       "size": 32,
+       "tag": "span"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your hair-ven in Port Harcourt.",
+      "size": 60,
+      "top": 181,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 15
+     },
+     {
+      "x": 412,
+      "n": 3
+     },
+     {
+      "x": 52,
+      "n": 2
+     },
+     {
+      "x": 220,
+      "n": 2
+     },
+     {
+      "x": 258,
+      "n": 2
+     },
+     {
+      "x": 93,
+      "n": 1
+     },
+     {
+      "x": 272,
+      "n": 1
+     },
+     {
+      "x": 319,
+      "n": 1
+     },
+     {
+      "x": 333,
+      "n": 1
+     },
+     {
+      "x": 370,
+      "n": 1
+     },
+     {
+      "x": 488,
+      "n": 1
+     },
+     {
+      "x": 589,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 31,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    0.69,
+    0.79,
+    1,
+    0.75,
+    0.83,
+    0.83,
+    1,
+    0.51,
+    0.57,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 35,
+    "css": 1,
+    "transitions": 1,
+    "scripted": 33,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 9292,
+     "screens": 11,
+     "words": 351,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 45,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cornrow.webp",
+      "diffuser.webp",
+      "cornrow.webp",
+      "koboko.webp",
+      "henna.webp",
+      "box.webp",
+      "braid-close.webp",
+      "green.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your hair-ven in Port Harcourt.",
+     "words": 5,
+     "chars": 31,
+     "lines": 2,
+     "size": 44.8,
+     "vw": 11.5,
+     "font": "Cormorant Garamond",
+     "weight": 500,
+     "tracking": 0,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 200,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your hair-ven in Port Harcourt.",
+     "words": 5,
+     "lines": 2,
+     "size": 44.8,
+     "font": "Cormorant Garamond"
+    },
+    "headings": [
+     {
+      "text": "Lı lish Lilish",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 90,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Your hair-ven in Port Harcourt.",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 44.8,
+      "vw": 11.5,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 200,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Lemme be your hair-ven baby.",
+      "words": 5,
+      "chars": 28,
+      "lines": 2,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1059,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hair Salon",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 1336,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Spa & Massage",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 1592,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Human Hair",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1848,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Decor & Fragrance",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.52,
+      "top": 2104,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Event Hall",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 2360,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Everything, in one place.",
+      "words": 4,
+      "chars": 25,
+      "lines": 1,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2612,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hair salon",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2838,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Braids",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.15,
+      "top": 2892,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Koboko braids",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 2952,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Styling",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.17,
+      "top": 3012,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Henna art",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 3072,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Spa",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3154,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Spa services",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 3208,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Massage",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 3268,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Shop",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3350,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Human hair",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 3404,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Decors & fragrance diffusers",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 3464,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Venue",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3578,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Event hall",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 3632,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "From our reels.",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3850,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Take a little Lilish home.",
+      "words": 5,
+      "chars": 26,
+      "lines": 1,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5372,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Human hair",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 5932,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Fragrance diffusers",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 6602,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Celebrate at Lilish.",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7240,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your reviews from Instagram go here",
+      "words": 6,
+      "chars": 35,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 7587,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Come get your hair done.",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7943,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Lı lish Lilish",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 9082,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 30,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 10,
+     "centered": 1,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.69,
+       "mono": false
+      },
+      {
+       "family": "Cormorant Garamond",
+       "share": 0.31,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      24,
+      30,
+      32,
+      34,
+      45
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9
+     },
+     "measureChars": 56,
+     "max": {
+      "size": 44.8,
+      "vw": 11.5,
+      "font": "Cormorant Garamond",
+      "text": "Your hair-ven"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.13,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fff9f4",
+     "bodyBgHsl": {
+      "h": 27,
+      "s": 1,
+      "l": 0.98
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#3e1f33",
+       "top": 160,
+       "hsl": {
+        "h": 321,
+        "s": 0.33,
+        "l": 0.18
+       }
+      },
+      {
+       "color": "#fbebe7",
+       "top": 2520,
+       "hsl": {
+        "h": 12,
+        "s": 0.71,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#5a3350",
+       "top": 5471,
+       "hsl": {
+        "h": 315,
+        "s": 0.28,
+        "l": 0.28
+       }
+      },
+      {
+       "color": "#f4d9d3",
+       "top": 7851,
+       "hsl": {
+        "h": 11,
+        "s": 0.6,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#fff9f4",
+       "top": 8009,
+       "hsl": {
+        "h": 27,
+        "s": 1,
+        "l": 0.98
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#3e1f33",
+       "share": 0.37
+      },
+      {
+       "color": "#fff9f4",
+       "share": 0.28
+      },
+      {
+       "color": "#86643a",
+       "share": 0.18
+      },
+      {
+       "color": "#5a3350",
+       "share": 0.09
+      },
+      {
+       "color": "#fffaf4",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#c8a97e",
+      "hsl": {
+       "h": 35,
+       "s": 0.4,
+       "l": 0.64
+      },
+      "fg": "#3e1f33"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book",
+      "Book on WhatsApp"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 11,
+     "boxRadius": 24,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 24,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 86,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "cormorant garamond",
+     "cormorant garamond fallback",
+     "dm sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 9292,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 160,
+      "height": 744,
+      "words": 23,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Your hair-ven",
+       "size": 45,
+       "tag": "h1"
+      },
+      "left": 18,
+      "right": 18,
+      "textLeft": 20,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#worlds.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 967,
+      "height": 1553,
+      "words": 37,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Lemme be your",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.bg-blush-2.py-20",
+      "tag": "section",
+      "top": 2520,
+      "height": 1238,
+      "words": 80,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Everything,",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 32,
+      "textLeft": 20,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#looks.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 3758,
+      "height": 1522,
+      "words": 4,
+      "media": 8,
+      "middle": 0,
+      "heading": {
+       "text": "From our",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 173,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#shop.bg-plum.py-20",
+      "tag": "section",
+      "top": 5280,
+      "height": 1565,
+      "words": 29,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Take a little",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#hall.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 6846,
+      "height": 661,
+      "words": 27,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Celebrate at",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 26,
+      "textLeft": 20,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.mx-auto.max-w-4xl",
+      "tag": "section",
+      "top": 7531,
+      "height": 320,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Your reviews from Instagram go here",
+       "size": 30,
+       "tag": "p"
+      },
+      "left": 55,
+      "right": 55,
+      "textLeft": 55,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#visit.bg-blush.py-20",
+      "tag": "section",
+      "top": 7851,
+      "height": 1192,
+      "words": 47,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Come get your",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-plum.px-5",
+      "tag": "footer",
+      "top": 9042,
+      "height": 250,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "lish",
+       "size": 32,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 26,
+      "textLeft": 20,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your hair-ven in Port Harcourt.",
+      "size": 45,
+      "top": 200,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 16
+     },
+     {
+      "x": 40,
+      "n": 7
+     },
+     {
+      "x": 178,
+      "n": 2
+     },
+     {
+      "x": 221,
+      "n": 2
+     },
+     {
+      "x": 66,
+      "n": 1
+     },
+     {
+      "x": 151,
+      "n": 1
+     },
+     {
+      "x": 188,
+      "n": 1
+     },
+     {
+      "x": 256,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 31,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #fff9f4, text #fff9f4, text #fffaf4).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "contrast",
+   "width": 1440,
+   "message": "Unreadable text: \"Product photo\" 1.9:1 (#86643a on #5a3350)",
+   "fix": "Raise contrast to at least 4.5:1 for text, 3:1 for large display.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 206 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch).",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "reduced-hidden",
+   "width": 1440,
+   "message": "With reduced motion requested, 3 text block(s) on the first screen stay invisible: \"Lemme be your\", \"hair-ven\", \"baby.\"",
+   "fix": "Put every hidden starting state inside @media (prefers-reduced-motion: no-preference); the reduced page is the finished page (references/motion.md §8)."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/03-lilish-beauty-empire/screens/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/03-lilish-beauty-empire/screens/inspect/desktop-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/03-lilish-beauty-empire/screens/inspect/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/03-lilish-beauty-empire/screens/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/03-lilish-beauty-empire/screens/inspect/tablet-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/03-lilish-beauty-empire/screens/inspect/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/03-lilish-beauty-empire/screens/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/03-lilish-beauty-empire/screens/inspect/mobile-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/03-lilish-beauty-empire/screens/inspect/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

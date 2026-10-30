@@ -1,0 +1,2760 @@
+{
+ "url": "http://localhost:4619/",
+ "at": "2026-10-30T20:16:30.765Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.95,
+    0.61,
+    0.63,
+    0.54,
+    0.66,
+    0.53
+   ],
+   "motion": {
+    "elements": 27,
+    "css": 1,
+    "transitions": 1,
+    "scripted": 25,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4810,
+     "screens": 5.3,
+     "words": 359,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "portrait.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Lekki land & homes, sold with integrity.",
+     "words": 7,
+     "chars": 40,
+     "lines": 2,
+     "size": 57.6,
+     "vw": 4,
+     "font": "DM Serif Display",
+     "weight": 400,
+     "tracking": 0,
+     "leading": 1.06,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.45,
+     "top": 305,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Lekki land & homes, sold with integrity.",
+     "words": 7,
+     "lines": 2,
+     "size": 57.6,
+     "font": "DM Serif Display"
+    },
+    "headings": [
+     {
+      "text": "Lekki land & homes, sold with integrity.",
+      "words": 7,
+      "chars": 40,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 4,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 305,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "200+",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 899,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Award-winning",
+      "words": 1,
+      "chars": 13,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 899,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "RC 9080991",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 899,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Certified",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 899,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Where would you like to plant roots?",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 1139,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Oak Ville",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 1716,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Celebration Parkland Estate",
+      "words": 3,
+      "chars": 27,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.38,
+      "top": 1716,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "How I can help.",
+      "words": 4,
+      "chars": 15,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 2156,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Buy with confidence.",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 2748,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "See it for yourself before you decide.",
+      "words": 7,
+      "chars": 38,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 3693,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s find your place in Lekki.",
+      "words": 6,
+      "chars": 31,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 4218,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.76,
+       "mono": false
+      },
+      {
+       "family": "DM Serif Display",
+       "share": 0.24,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      22,
+      23,
+      24,
+      30,
+      36,
+      48,
+      58
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Plus Jakarta Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.4
+     },
+     "measureChars": 206,
+     "max": {
+      "size": 57.6,
+      "vw": 4,
+      "font": "DM Serif Display",
+      "text": "Lekki land & homes,"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.13,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#faf6ee",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.55,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0f4c3a",
+       "top": 111,
+       "hsl": {
+        "h": 162,
+        "s": 0.67,
+        "l": 0.18
+       }
+      },
+      {
+       "color": "#f1eadb",
+       "top": 2016,
+       "hsl": {
+        "h": 41,
+        "s": 0.44,
+        "l": 0.9
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1a1a1a",
+       "share": 0.51
+      },
+      {
+       "color": "#faf6ee",
+       "share": 0.14
+      },
+      {
+       "color": "#7f6020",
+       "share": 0.09
+      },
+      {
+       "color": "#0a382a",
+       "share": 0.06
+      },
+      {
+       "color": "#faf6ed",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#0f4c3a",
+      "hsl": {
+       "h": 162,
+       "s": 0.67,
+       "l": 0.18
+      },
+      "fg": "#faf6ee"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 2,
+     "radius": 12,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Chat with Yemisi",
+      "Chat with Yemisi"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 16,
+     "boxRadius": 24,
+     "squareMedia": 0,
+     "roundedMedia": 1,
+     "mediaRadius": 32,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 4326
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.19
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 76,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "dm serif display",
+     "plus jakarta sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4810,
+    "margins": {
+     "left": 112,
+     "right": 128
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 111,
+      "height": 752,
+      "words": 29,
+      "media": 2,
+      "middle": 163,
+      "heading": {
+       "text": "Lekki land & homes,",
+       "size": 58,
+       "tag": "h1"
+      },
+      "left": 112,
+      "right": 151,
+      "textLeft": 112,
+      "textRight": 561,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-cream-2",
+      "tag": "section",
+      "top": 863,
+      "height": 136,
+      "words": 18,
+      "media": 0,
+      "middle": 205,
+      "heading": {
+       "text": "200+",
+       "size": 36,
+       "tag": "p"
+      },
+      "left": 112,
+      "right": 247,
+      "textLeft": 112,
+      "textRight": 247,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#estates.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 999,
+      "height": 1017,
+      "words": 57,
+      "media": 0,
+      "middle": 135,
+      "heading": {
+       "text": "Where would you like to",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 214,
+      "textLeft": 112,
+      "textRight": 214,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.bg-cream-2.py-24",
+      "tag": "section",
+      "top": 2016,
+      "height": 592,
+      "words": 54,
+      "media": 0,
+      "middle": 120,
+      "heading": {
+       "text": "How I can help.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 173,
+      "textLeft": 112,
+      "textRight": 173,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 2608,
+      "height": 864,
+      "words": 71,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buy with",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 220,
+      "textLeft": 112,
+      "textRight": 220,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#inspect.bg-em.py-24",
+      "tag": "section",
+      "top": 3472,
+      "height": 618,
+      "words": 33,
+      "media": 0,
+      "middle": 158,
+      "heading": {
+       "text": "See it for yourself",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 144,
+      "textLeft": 112,
+      "textRight": 313,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 4090,
+      "height": 596,
+      "words": 32,
+      "media": 0,
+      "middle": 222,
+      "heading": {
+       "text": "Let’s find your",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 166,
+      "textLeft": 112,
+      "textRight": 166,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-em-2.px-5",
+      "tag": "footer",
+      "top": 4686,
+      "height": 124,
+      "words": 23,
+      "media": 0,
+      "middle": 165,
+      "heading": {
+       "text": "KL",
+       "size": 22,
+       "tag": "span"
+      },
+      "left": 89,
+      "right": 80,
+      "textLeft": 89,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Lekki land & homes, sold with integrity.",
+      "size": 58,
+      "top": 305,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 112,
+      "n": 12
+     },
+     {
+      "x": 758,
+      "n": 3
+     },
+     {
+      "x": 140,
+      "n": 2
+     },
+     {
+      "x": 309,
+      "n": 1
+     },
+     {
+      "x": 358,
+      "n": 1
+     },
+     {
+      "x": 421,
+      "n": 1
+     },
+     {
+      "x": 449,
+      "n": 1
+     },
+     {
+      "x": 1067,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 22,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.14,
+    "voidBox": {
+     "x": 0,
+     "y": 600,
+     "w": 780,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.96,
+    0.77,
+    0.54,
+    0.63,
+    0.71,
+    0.62
+   ],
+   "motion": {
+    "elements": 27,
+    "css": 1,
+    "transitions": 1,
+    "scripted": 25,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5565,
+     "screens": 5.4,
+     "words": 353,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "portrait.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Lekki land & homes, sold with integrity.",
+     "words": 7,
+     "chars": 40,
+     "lines": 2,
+     "size": 48,
+     "vw": 6.3,
+     "font": "DM Serif Display",
+     "weight": 400,
+     "tracking": 0,
+     "leading": 1.06,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 171,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Lekki land & homes, sold with integrity.",
+     "words": 7,
+     "lines": 2,
+     "size": 48,
+     "font": "DM Serif Display"
+    },
+    "headings": [
+     {
+      "text": "Lekki land & homes, sold with integrity.",
+      "words": 7,
+      "chars": 40,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 171,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "200+",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 1191,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Award-winning",
+      "words": 1,
+      "chars": 13,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 1191,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "RC 9080991",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 1279,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Certified",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 1279,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Where would you like to plant roots?",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 1487,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Oak Ville",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 1903,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Celebration Parkland Estate",
+      "words": 3,
+      "chars": 27,
+      "lines": 2,
+      "size": 30,
+      "vw": 3.9,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.37,
+      "top": 1903,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "How I can help.",
+      "words": 4,
+      "chars": 15,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2403,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Buy with confidence.",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3123,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "See it for yourself before you decide.",
+      "words": 7,
+      "chars": 38,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4111,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s find your place in Lekki.",
+      "words": 6,
+      "chars": 31,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4901,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.76,
+       "mono": false
+      },
+      {
+       "family": "DM Serif Display",
+       "share": 0.24,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      22,
+      23,
+      24,
+      30,
+      36,
+      48
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Plus Jakarta Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.4
+     },
+     "measureChars": 110,
+     "max": {
+      "size": 48,
+      "vw": 6.3,
+      "font": "DM Serif Display",
+      "text": "Lekki land & homes,"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.13,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#faf6ee",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.55,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0f4c3a",
+       "top": 131,
+       "hsl": {
+        "h": 162,
+        "s": 0.67,
+        "l": 0.18
+       }
+      },
+      {
+       "color": "#d4af6a",
+       "top": 483,
+       "hsl": {
+        "h": 39,
+        "s": 0.55,
+        "l": 0.62
+       }
+      },
+      {
+       "color": "#0a382a",
+       "top": 499,
+       "hsl": {
+        "h": 162,
+        "s": 0.7,
+        "l": 0.13
+       }
+      },
+      {
+       "color": "#f1eadb",
+       "top": 2295,
+       "hsl": {
+        "h": 41,
+        "s": 0.44,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#faf6ee",
+       "top": 4347,
+       "hsl": {
+        "h": 40,
+        "s": 0.55,
+        "l": 0.96
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1a1a1a",
+       "share": 0.52
+      },
+      {
+       "color": "#faf6ee",
+       "share": 0.14
+      },
+      {
+       "color": "#7f6020",
+       "share": 0.09
+      },
+      {
+       "color": "#0a382a",
+       "share": 0.06
+      },
+      {
+       "color": "#faf6ed",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#0f4c3a",
+      "hsl": {
+       "h": 162,
+       "s": 0.67,
+       "l": 0.18
+      },
+      "fg": "#faf6ee"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 2,
+     "radius": 12,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Chat with Yemisi",
+      "Chat with Yemisi"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 16,
+     "boxRadius": 24,
+     "squareMedia": 0,
+     "roundedMedia": 1,
+     "mediaRadius": 32,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 5009
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.3
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 76,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "dm serif display",
+     "dm serif display fallback",
+     "plus jakarta sans",
+     "plus jakarta sans fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5565,
+    "margins": {
+     "left": 32,
+     "right": 48
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 131,
+      "height": 1024,
+      "words": 29,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Lekki land & homes,",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 160,
+      "textLeft": 32,
+      "textRight": 252,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-cream-2",
+      "tag": "section",
+      "top": 1155,
+      "height": 224,
+      "words": 18,
+      "media": 0,
+      "middle": 184,
+      "heading": {
+       "text": "200+",
+       "size": 36,
+       "tag": "p"
+      },
+      "left": 32,
+      "right": 132,
+      "textLeft": 32,
+      "textRight": 132,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#estates.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 1379,
+      "height": 917,
+      "words": 57,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Where would you like to",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 34,
+      "textLeft": 32,
+      "textRight": 34,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.bg-cream-2.py-24",
+      "tag": "section",
+      "top": 2295,
+      "height": 720,
+      "words": 54,
+      "media": 0,
+      "middle": 67,
+      "heading": {
+       "text": "How I can help.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 61,
+      "textLeft": 32,
+      "textRight": 61,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 3015,
+      "height": 988,
+      "words": 71,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buy with",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 219,
+      "textLeft": 32,
+      "textRight": 219,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#inspect.bg-em.py-24",
+      "tag": "section",
+      "top": 4003,
+      "height": 802,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "See it for yourself",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 64,
+      "textLeft": 32,
+      "textRight": 126,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 4805,
+      "height": 596,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s find your",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 65,
+      "textLeft": 32,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-em-2.px-5",
+      "tag": "footer",
+      "top": 5401,
+      "height": 164,
+      "words": 23,
+      "media": 0,
+      "middle": 29,
+      "heading": {
+       "text": "KL",
+       "size": 22,
+       "tag": "span"
+      },
+      "left": 41,
+      "right": 62,
+      "textLeft": 41,
+      "textRight": 62,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Lekki land & homes, sold with integrity.",
+      "size": 48,
+      "top": 171,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 12
+     },
+     {
+      "x": 422,
+      "n": 4
+     },
+     {
+      "x": 60,
+      "n": 3
+     },
+     {
+      "x": 229,
+      "n": 2
+     },
+     {
+      "x": 341,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 22,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.87,
+    0.76,
+    0.86,
+    0.63,
+    0.54,
+    0.68,
+    0.59,
+    0.7,
+    0.74
+   ],
+   "motion": {
+    "elements": 27,
+    "css": 1,
+    "transitions": 1,
+    "scripted": 25,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6916,
+     "screens": 8.2,
+     "words": 351,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "portrait.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Lekki land & homes, sold with integrity.",
+     "words": 7,
+     "chars": 40,
+     "lines": 2,
+     "size": 36.8,
+     "vw": 9.4,
+     "font": "DM Serif Display",
+     "weight": 400,
+     "tracking": 0,
+     "leading": 1.06,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 190,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Lekki land & homes, sold with integrity.",
+     "words": 7,
+     "lines": 2,
+     "size": 36.8,
+     "font": "DM Serif Display"
+    },
+    "headings": [
+     {
+      "text": "KL",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 90,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Lekki land & homes, sold with integrity.",
+      "words": 7,
+      "chars": 40,
+      "lines": 2,
+      "size": 36.8,
+      "vw": 9.4,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 190,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "LEKKI LAND & HOUSES EXPERT · KL",
+      "words": 7,
+      "chars": 31,
+      "lines": 6,
+      "size": 23,
+      "vw": 5.9,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 588,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "200+",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 1157,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Award-winning",
+      "words": 1,
+      "chars": 13,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.43,
+      "top": 1157,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "RC 9080991",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 1305,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Certified",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.43,
+      "top": 1305,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Where would you like to plant roots?",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1537,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Oak Ville",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 1916,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Celebration Parkland Estate",
+      "words": 3,
+      "chars": 27,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 2455,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "How I can help.",
+      "words": 4,
+      "chars": 15,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2955,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Land banking",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 3100,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Houses for sale",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 3292,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Investment advisory",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 3458,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Site inspections",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 3650,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Buy with confidence.",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4030,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ask about title documents",
+      "words": 4,
+      "chars": 25,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4208,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Inspection support",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4356,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Payment options",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4504,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Client testimonials go here",
+      "words": 4,
+      "chars": 27,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4732,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "See it for yourself before you decide.",
+      "words": 7,
+      "chars": 38,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5068,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s find your place in Lekki.",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5880,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "+234 812 927 9543",
+      "words": 4,
+      "chars": 17,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 6088,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "+234 812 927 9543",
+      "words": 4,
+      "chars": 17,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 6248,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "+234 803 929 1889",
+      "words": 4,
+      "chars": 17,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 6280,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "KL",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "DM Serif Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 6720,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 26,
+     "maxLines": 6,
+     "over2Lines": 1,
+     "statements": 6,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.75,
+       "mono": false
+      },
+      {
+       "family": "DM Serif Display",
+       "share": 0.25,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      22,
+      23,
+      24,
+      30,
+      37
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Plus Jakarta Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.4
+     },
+     "measureChars": 56,
+     "max": {
+      "size": 36.8,
+      "vw": 9.4,
+      "font": "DM Serif Display",
+      "text": "Lekki land & homes,"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.13,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#faf6ee",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.55,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0f4c3a",
+       "top": 150,
+       "hsl": {
+        "h": 162,
+        "s": 0.67,
+        "l": 0.18
+       }
+      },
+      {
+       "color": "#d4af6a",
+       "top": 572,
+       "hsl": {
+        "h": 39,
+        "s": 0.55,
+        "l": 0.62
+       }
+      },
+      {
+       "color": "#0a382a",
+       "top": 588,
+       "hsl": {
+        "h": 162,
+        "s": 0.7,
+        "l": 0.13
+       }
+      },
+      {
+       "color": "#f1eadb",
+       "top": 1121,
+       "hsl": {
+        "h": 41,
+        "s": 0.44,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1661,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#faf6ee",
+       "top": 5260,
+       "hsl": {
+        "h": 40,
+        "s": 0.55,
+        "l": 0.96
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1a1a1a",
+       "share": 0.52
+      },
+      {
+       "color": "#faf6ee",
+       "share": 0.14
+      },
+      {
+       "color": "#7f6020",
+       "share": 0.09
+      },
+      {
+       "color": "#0a382a",
+       "share": 0.06
+      },
+      {
+       "color": "#faf6ed",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#0f4c3a",
+      "hsl": {
+       "h": 162,
+       "s": 0.67,
+       "l": 0.18
+      },
+      "fg": "#faf6ee"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 2,
+     "radius": 12,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Chat",
+      "Chat with Yemisi"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 16,
+     "boxRadius": 24,
+     "squareMedia": 0,
+     "roundedMedia": 1,
+     "mediaRadius": 32,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 6004
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.27
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 76,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "dm serif display",
+     "plus jakarta sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6916,
+    "margins": {
+     "left": 20,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 150,
+      "height": 971,
+      "words": 29,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Lekki land & homes,",
+       "size": 37,
+       "tag": "h1"
+      },
+      "left": 0,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-cream-2",
+      "tag": "section",
+      "top": 1121,
+      "height": 308,
+      "words": 18,
+      "media": 0,
+      "middle": 26,
+      "heading": {
+       "text": "200+",
+       "size": 30,
+       "tag": "p"
+      },
+      "left": 20,
+      "right": 24,
+      "textLeft": 20,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#estates.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 1429,
+      "height": 1418,
+      "words": 57,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Where would you like to",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 27,
+      "textLeft": 20,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.bg-cream-2.py-24",
+      "tag": "section",
+      "top": 2847,
+      "height": 1076,
+      "words": 54,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "How I can help.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 57,
+      "textLeft": 20,
+      "textRight": 57,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 3922,
+      "height": 1038,
+      "words": 71,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buy with",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 30,
+      "textLeft": 20,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#inspect.bg-em.py-24",
+      "tag": "section",
+      "top": 4960,
+      "height": 824,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "See it for yourself",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 30,
+      "textLeft": 20,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 5784,
+      "height": 896,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s find your",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 70,
+      "textLeft": 20,
+      "textRight": 70,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-em-2.px-5",
+      "tag": "footer",
+      "top": 6680,
+      "height": 236,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "KL",
+       "size": 22,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 58,
+      "textLeft": 20,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Lekki land & homes, sold with integrity.",
+      "size": 37,
+      "top": 190,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 13
+     },
+     {
+      "x": 48,
+      "n": 7
+     },
+     {
+      "x": 145,
+      "n": 1
+     },
+     {
+      "x": 177,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 22,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #faf6ee, section #f1eadb, text #faf6ee).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "10 different font sizes (14, 16, 18, 22, 23, 24, 30, 36, 48, 58).",
+   "fix": "A page needs about five: display, heading, lead, body, small."
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 1 picture(s) on the page (1 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 206 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch).",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "focal-point",
+   "width": 1440,
+   "message": "The first screen has no dominant element: the largest type is 57.6px (4vw) and no single picture holds a third of the viewport.",
+   "fix": "Make one thing lead: the headline at display size, or one large picture. A grid of many small pictures is not one thing; in blind tests jurors marked a first screen without a headline down every time. On the strongest studied sites the largest type has a median of 8.4vw."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 112px on the left, 128px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"LEKKI LAND & HOUSES EXPERT · KL\" → 6 lines (7 words, 23px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "reduced-hidden",
+   "width": 1440,
+   "message": "With reduced motion requested, 2 text block(s) on the first screen stay invisible: \"Chat with Yemisi\", \"View estates\"",
+   "fix": "Put every hidden starting state inside @media (prefers-reduced-motion: no-preference); the reduced page is the finished page (references/motion.md §8)."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/10-kl-realtors/screens/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/10-kl-realtors/screens/inspect/desktop-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/10-kl-realtors/screens/inspect/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/10-kl-realtors/screens/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/10-kl-realtors/screens/inspect/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/10-kl-realtors/screens/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/10-kl-realtors/screens/inspect/mobile-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/10-kl-realtors/screens/inspect/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

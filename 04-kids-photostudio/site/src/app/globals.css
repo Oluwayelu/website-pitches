@@ -6,9 +6,17 @@
 html { scroll-behavior: smooth; scroll-padding-top: 76px; }
 body { background: var(--color-cream); color: var(--color-ink); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
 :focus-visible { outline: 3px solid var(--color-ink); outline-offset: 3px; border-radius: 8px; }
-.ph { background: repeating-linear-gradient(45deg, rgba(124,198,254,.18) 0 12px, rgba(255,201,74,.18) 12px 24px); border: 2px dashed rgba(31,42,68,.35); }
+.ph { background: color-mix(in srgb, currentColor 11%, transparent); }
 @keyframes drift { 0% { transform: translate3d(0,0,0) rotate(0); } 50% { transform: translate3d(14px,-26px,0) rotate(12deg); } 100% { transform: translate3d(0,0,0) rotate(0); } }
 @keyframes bob { 0%,100% { transform: translateY(0) rotate(var(--r,0deg)); } 50% { transform: translateY(-14px) rotate(calc(var(--r,0deg) + 3deg)); } }
 .drift { animation: drift 9s ease-in-out infinite; }
 .bob { animation: bob 6s ease-in-out infinite; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .drift, .bob { animation: none; } }
+
+@media (prefers-reduced-motion: reduce) {
+  [style*="translateY(10"], [style*="translateY(11"] { transform: none !important; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  [style*="opacity: 0"] { opacity: 1 !important; }
+}

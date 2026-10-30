@@ -1,0 +1,2800 @@
+{
+ "url": "http://localhost:4710/",
+ "at": "2026-10-30T20:08:30.830Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.94,
+    0.63,
+    0.86,
+    0.37,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 23,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 22,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4870,
+     "screens": 5.4,
+     "words": 383,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 29,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "wealthland.webp",
+      "selfcon.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Weteach beforeyoupay.",
+     "words": 2,
+     "chars": 21,
+     "lines": 2,
+     "size": 136,
+     "vw": 9.4,
+     "font": "Libre Caslon Display",
+     "weight": 400,
+     "tracking": 0,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.62,
+     "top": 199,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Weteach beforeyoupay.",
+     "words": 2,
+     "lines": 2,
+     "size": 136,
+     "font": "Libre Caslon Display"
+    },
+    "headings": [
+     {
+      "text": "Weteach beforeyoupay.",
+      "words": 2,
+      "chars": 21,
+      "lines": 2,
+      "size": 136,
+      "vw": 9.4,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.62,
+      "top": 199,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "100%",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 714,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "1,100+",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.26,
+      "top": 714,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Education · Listings · Insights",
+      "words": 5,
+      "chars": 31,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 714,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Latest episodes.",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 935,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The rent was cheap… until they gave us the bill",
+      "words": 10,
+      "chars": 47,
+      "lines": 2,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 1055,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The house was perfect… until night fell",
+      "words": 7,
+      "chars": 39,
+      "lines": 2,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.24,
+      "top": 1055,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The neighbour knew everything… but nobody asked",
+      "words": 7,
+      "chars": 47,
+      "lines": 2,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.24,
+      "top": 1055,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Verified homes, one tap away.",
+      "words": 5,
+      "chars": 29,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 1790,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Six checks that can save you millions.",
+      "words": 7,
+      "chars": 38,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 2790,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Realtor Comfort",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 3658,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s find your place in Lekki.",
+      "words": 6,
+      "chars": 31,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 4457,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Sans 3",
+       "share": 0.69,
+       "mono": false
+      },
+      {
+       "family": "Libre Caslon Display",
+       "share": 0.31,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      15,
+      16,
+      18,
+      20,
+      24,
+      30,
+      48,
+      136
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Sans 3",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.2
+     },
+     "measureChars": 206,
+     "max": {
+      "size": 136,
+      "vw": 9.4,
+      "font": "Libre Caslon Display",
+      "text": "We"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.1,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#e6eeec",
+       "top": 119,
+       "hsl": {
+        "h": 165,
+        "s": 0.19,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#22272b",
+       "top": 3450,
+       "hsl": {
+        "h": 207,
+        "s": 0.12,
+        "l": 0.15
+       }
+      },
+      {
+       "color": "#0f5e63",
+       "top": 4278,
+       "hsl": {
+        "h": 184,
+        "s": 0.74,
+        "l": 0.22
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#22272b",
+       "share": 0.32
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.3
+      },
+      {
+       "color": "#22262b",
+       "share": 0.28
+      },
+      {
+       "color": "#21272b",
+       "share": 0.04
+      },
+      {
+       "color": "#22272a",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#0f5e63",
+      "hsl": {
+       "h": 184,
+       "s": 0.74,
+       "l": 0.22
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 8,
+     "inHero": 2,
+     "radius": 6,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "WhatsApp",
+      "Browse properties"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 1886
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "libre caslon display",
+     "source sans 3"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4870,
+    "margins": {
+     "left": 112,
+     "right": 88
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 119,
+      "height": 562,
+      "words": 21,
+      "media": 1,
+      "middle": 94,
+      "heading": {
+       "text": "We",
+       "size": 136,
+       "tag": "h1"
+      },
+      "left": 112,
+      "right": 140,
+      "textLeft": 112,
+      "textRight": 140,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-teal.text-white",
+      "tag": "section",
+      "top": 682,
+      "height": 130,
+      "words": 17,
+      "media": 0,
+      "middle": 335,
+      "heading": {
+       "text": "100%",
+       "size": 30,
+       "tag": "p"
+      },
+      "left": 128,
+      "right": 160,
+      "textLeft": 128,
+      "textRight": 160,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#episodes.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 811,
+      "height": 855,
+      "words": 53,
+      "media": 3,
+      "middle": 24,
+      "heading": {
+       "text": "Latest episodes.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 88,
+      "textLeft": 112,
+      "textRight": 133,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#listings.bg-sand.py-20",
+      "tag": "section",
+      "top": 1666,
+      "height": 1000,
+      "words": 87,
+      "media": 2,
+      "middle": 24,
+      "heading": {
+       "text": "Verified homes, one tap away.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 148,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#checklist.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 2666,
+      "height": 784,
+      "words": 106,
+      "media": 0,
+      "middle": 138,
+      "heading": {
+       "text": "Six checks that can save you millions.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 307,
+      "textLeft": 112,
+      "textRight": 307,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#meet.bg-char.py-20",
+      "tag": "section",
+      "top": 3450,
+      "height": 828,
+      "words": 32,
+      "media": 0,
+      "middle": 53,
+      "heading": {
+       "text": "Realtor Comfort",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 206,
+      "right": 544,
+      "textLeft": 206,
+      "textRight": 544,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.bg-teal.py-20",
+      "tag": "section",
+      "top": 4278,
+      "height": 456,
+      "words": 21,
+      "media": 0,
+      "middle": 288,
+      "heading": {
+       "text": "Let’s find",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 136,
+      "textLeft": 112,
+      "textRight": 136,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#171b1e].px-5",
+      "tag": "footer",
+      "top": 4734,
+      "height": 136,
+      "words": 20,
+      "media": 0,
+      "middle": 291,
+      "heading": null,
+      "left": 126,
+      "right": 80,
+      "textLeft": 126,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Weteach beforeyoupay.",
+      "size": 136,
+      "top": 199,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 112,
+      "n": 8
+     },
+     {
+      "x": 549,
+      "n": 3
+     },
+     {
+      "x": 963,
+      "n": 3
+     },
+     {
+      "x": 136,
+      "n": 2
+     },
+     {
+      "x": 461,
+      "n": 2
+     },
+     {
+      "x": 287,
+      "n": 1
+     },
+     {
+      "x": 315,
+      "n": 1
+     },
+     {
+      "x": 590,
+      "n": 1
+     },
+     {
+      "x": 674,
+      "n": 1
+     },
+     {
+      "x": 944,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.15,
+    "voidBox": {
+     "x": 900,
+     "y": 120,
+     "w": 540,
+     "h": 360
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.86,
+    0.86,
+    0.87,
+    0.88,
+    0.89,
+    0.79,
+    0.54,
+    0.85,
+    1
+   ],
+   "motion": {
+    "elements": 23,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 22,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 8857,
+     "screens": 8.6,
+     "words": 377,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 29,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "wealthland.webp",
+      "selfcon.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Weteach beforeyoupay.",
+     "words": 2,
+     "chars": 21,
+     "lines": 2,
+     "size": 96,
+     "vw": 12.5,
+     "font": "Libre Caslon Display",
+     "weight": 400,
+     "tracking": 0,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 179,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Weteach beforeyoupay.",
+     "words": 2,
+     "lines": 2,
+     "size": 96,
+     "font": "Libre Caslon Display"
+    },
+    "headings": [
+     {
+      "text": "Weteach beforeyoupay.",
+      "words": 2,
+      "chars": 21,
+      "lines": 2,
+      "size": 96,
+      "vw": 12.5,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 179,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "100%",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 649,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "1,100+",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.26,
+      "top": 649,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Education · Listings · Insights",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 649,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Latest episodes.",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 900,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The rent was cheap… until they gave us the bill",
+      "words": 10,
+      "chars": 47,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 1020,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The house was perfect… until night fell",
+      "words": 7,
+      "chars": 39,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 1960,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The neighbour knew everything… but nobody asked",
+      "words": 7,
+      "chars": 47,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 2900,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Verified homes, one tap away.",
+      "words": 5,
+      "chars": 29,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3964,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Six checks that can save you millions.",
+      "words": 7,
+      "chars": 38,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6688,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Realtor Comfort",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.56,
+      "top": 7615,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s find your place in Lekki.",
+      "words": 6,
+      "chars": 31,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 8228,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Sans 3",
+       "share": 0.68,
+       "mono": false
+      },
+      {
+       "family": "Libre Caslon Display",
+       "share": 0.32,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      48,
+      96
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Sans 3",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.2
+     },
+     "measureChars": 110,
+     "max": {
+      "size": 96,
+      "vw": 12.5,
+      "font": "Libre Caslon Display",
+      "text": "We"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Read on Facebook",
+      "above": "The house was perfect… until night fell",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 1892
+     },
+     {
+      "text": "Read on Facebook",
+      "above": "The neighbour knew everything… but nobod",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2832
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#e6eeec",
+       "top": 139,
+       "hsl": {
+        "h": 165,
+        "s": 0.19,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#0f5e63",
+       "top": 996,
+       "hsl": {
+        "h": 184,
+        "s": 0.74,
+        "l": 0.22
+       }
+      },
+      {
+       "color": "#22272b",
+       "top": 1936,
+       "hsl": {
+        "h": 207,
+        "s": 0.12,
+        "l": 0.15
+       }
+      },
+      {
+       "color": "#e8735a",
+       "top": 2876,
+       "hsl": {
+        "h": 11,
+        "s": 0.76,
+        "l": 0.63
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 4060,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#22272b",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.3
+      },
+      {
+       "color": "#22262b",
+       "share": 0.29
+      },
+      {
+       "color": "#21272b",
+       "share": 0.04
+      },
+      {
+       "color": "#22272a",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#0f5e63",
+      "hsl": {
+       "h": 184,
+       "s": 0.74,
+       "l": 0.22
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 8,
+     "inHero": 2,
+     "radius": 6,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "WhatsApp",
+      "Browse properties"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "libre caslon display",
+     "source sans 3"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 8857,
+    "margins": {
+     "left": 32,
+     "right": 8
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 139,
+      "height": 479,
+      "words": 21,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "We",
+       "size": 96,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 197,
+      "textLeft": 32,
+      "textRight": 197,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-teal.text-white",
+      "tag": "section",
+      "top": 617,
+      "height": 191,
+      "words": 17,
+      "media": 0,
+      "middle": 164,
+      "heading": {
+       "text": "100%",
+       "size": 30,
+       "tag": "p"
+      },
+      "left": 48,
+      "right": 43,
+      "textLeft": 48,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#episodes.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 808,
+      "height": 3064,
+      "words": 53,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Latest episodes.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 8,
+      "textLeft": 32,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#listings.bg-sand.py-20",
+      "tag": "section",
+      "top": 3872,
+      "height": 2724,
+      "words": 87,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Verified homes, one tap away.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 84,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#checklist.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 6596,
+      "height": 897,
+      "words": 106,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Six checks that can save you millions.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 77,
+      "textLeft": 32,
+      "textRight": 77,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#meet.bg-char.py-20",
+      "tag": "section",
+      "top": 7493,
+      "height": 654,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Realtor Comfort",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 157,
+      "textLeft": 58,
+      "textRight": 157,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.bg-teal.py-20",
+      "tag": "section",
+      "top": 8148,
+      "height": 529,
+      "words": 21,
+      "media": 0,
+      "middle": 4,
+      "heading": {
+       "text": "Let’s find",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 56,
+      "textLeft": 32,
+      "textRight": 56,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#171b1e].px-5",
+      "tag": "footer",
+      "top": 8677,
+      "height": 180,
+      "words": 20,
+      "media": 0,
+      "middle": 38,
+      "heading": null,
+      "left": 76,
+      "right": 80,
+      "textLeft": 76,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Weteach beforeyoupay.",
+      "size": 96,
+      "top": 179,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 8
+     },
+     {
+      "x": 56,
+      "n": 8
+     },
+     {
+      "x": 175,
+      "n": 1
+     },
+     {
+      "x": 207,
+      "n": 1
+     },
+     {
+      "x": 278,
+      "n": 1
+     },
+     {
+      "x": 304,
+      "n": 1
+     },
+     {
+      "x": 352,
+      "n": 1
+     },
+     {
+      "x": 389,
+      "n": 1
+     },
+     {
+      "x": 429,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    1,
+    0.72,
+    0.89,
+    0.83,
+    0.82,
+    0.56,
+    0.5,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 23,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 22,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 7903,
+     "screens": 9.4,
+     "words": 377,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 29,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "wealthland.webp",
+      "selfcon.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Weteach beforeyoupay.",
+     "words": 2,
+     "chars": 21,
+     "lines": 2,
+     "size": 57.6,
+     "vw": 14.8,
+     "font": "Libre Caslon Display",
+     "weight": 400,
+     "tracking": 0,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 198,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Weteach beforeyoupay.",
+     "words": 2,
+     "lines": 2,
+     "size": 57.6,
+     "font": "Libre Caslon Display"
+    },
+    "headings": [
+     {
+      "text": "Weteach beforeyoupay.",
+      "words": 2,
+      "chars": 21,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 14.8,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 198,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "100%",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 696,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "1,100+",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 786,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Education · Listings · Insights",
+      "words": 5,
+      "chars": 31,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 875,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Latest episodes.",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1065,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The rent was cheap… until they gave us the bill",
+      "words": 10,
+      "chars": 47,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1251,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The house was perfect… until night fell",
+      "words": 7,
+      "chars": 39,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1749,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The neighbour knew everything… but nobody asked",
+      "words": 7,
+      "chars": 47,
+      "lines": 3,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 2246,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Verified homes, one tap away.",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2868,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Luxury fully detached duplex",
+      "words": 4,
+      "chars": 28,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 3343,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Wealthland Green Estate",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 3841,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Self-contain for rent, Ilasan, Lekki",
+      "words": 5,
+      "chars": 36,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4388,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Get new listings on WhatsApp.",
+      "words": 5,
+      "chars": 29,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 4684,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Six checks that can save you millions.",
+      "words": 7,
+      "chars": 38,
+      "lines": 2,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4976,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "1.Inspect at night",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 5160,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "2.Ask about service charge & bills",
+      "words": 6,
+      "chars": 34,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 5280,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "3.Verify title documents",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 5432,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "4.Meet the landlord’s lawyer",
+      "words": 4,
+      "chars": 28,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 5552,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "5.Check drainage in the rainy season",
+      "words": 6,
+      "chars": 36,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 5672,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "6.Ask the neighbours",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 5824,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Realtor Comfort",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6540,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your 18 Facebook reviews go here",
+      "words": 6,
+      "chars": 32,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 6867,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Let’s find your place in Lekki.",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7151,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "0803 829 5185",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.38,
+      "top": 7327,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "0803 829 5185",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Libre Caslon Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.38,
+      "top": 7411,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 25,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 5,
+     "centered": 1,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Sans 3",
+       "share": 0.68,
+       "mono": false
+      },
+      {
+       "family": "Libre Caslon Display",
+       "share": 0.32,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      34,
+      58
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Sans 3",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.2
+     },
+     "measureChars": 56,
+     "max": {
+      "size": 57.6,
+      "vw": 14.8,
+      "font": "Libre Caslon Display",
+      "text": "We"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Read on Facebook",
+      "above": "The house was perfect… until night fell",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 1681
+     },
+     {
+      "text": "Read on Facebook",
+      "above": "The neighbour knew everything… but nobod",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2178
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#e6eeec",
+       "top": 158,
+       "hsl": {
+        "h": 165,
+        "s": 0.19,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#0f5e63",
+       "top": 664,
+       "hsl": {
+        "h": 184,
+        "s": 0.74,
+        "l": 0.22
+       }
+      },
+      {
+       "color": "#22272b",
+       "top": 1725,
+       "hsl": {
+        "h": 207,
+        "s": 0.12,
+        "l": 0.15
+       }
+      },
+      {
+       "color": "#e8735a",
+       "top": 2222,
+       "hsl": {
+        "h": 11,
+        "s": 0.76,
+        "l": 0.63
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 3016,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#171b1e",
+       "top": 7619,
+       "hsl": {
+        "h": 206,
+        "s": 0.13,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#22272b",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.3
+      },
+      {
+       "color": "#22262b",
+       "share": 0.29
+      },
+      {
+       "color": "#21272b",
+       "share": 0.04
+      },
+      {
+       "color": "#22272a",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#0f5e63",
+      "hsl": {
+       "h": 184,
+       "s": 0.74,
+       "l": 0.22
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 8,
+     "inHero": 2,
+     "radius": 6,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "WhatsApp",
+      "Browse properties"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 3016
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "libre caslon display",
+     "libre caslon display fallback",
+     "source sans 3",
+     "source sans 3 fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 7903,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 158,
+      "height": 506,
+      "words": 21,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "We",
+       "size": 58,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 39,
+      "textLeft": 20,
+      "textRight": 39,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-teal.text-white",
+      "tag": "section",
+      "top": 664,
+      "height": 309,
+      "words": 17,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "100%",
+       "size": 30,
+       "tag": "p"
+      },
+      "left": 36,
+      "right": 28,
+      "textLeft": 36,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.flex.flex-col",
+      "tag": "div",
+      "top": 1053,
+      "height": 126,
+      "words": 20,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Latest episodes.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 44,
+      "textLeft": 20,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-12.grid",
+      "tag": "div",
+      "top": 1227,
+      "height": 1469,
+      "words": 33,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "The rent was cheap… until they gave us the bill",
+       "size": 30,
+       "tag": "h3"
+      },
+      "left": 44,
+      "right": 0,
+      "textLeft": 44,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#listings.bg-sand.py-20",
+      "tag": "section",
+      "top": 2776,
+      "height": 2108,
+      "words": 87,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Verified homes, one tap away.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#checklist.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 4884,
+      "height": 1125,
+      "words": 106,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Six checks that can save you millions.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 31,
+      "textLeft": 20,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#meet.bg-char.py-20",
+      "tag": "section",
+      "top": 6008,
+      "height": 1062,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 44,
+      "textLeft": 20,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.bg-teal.py-20",
+      "tag": "section",
+      "top": 7071,
+      "height": 549,
+      "words": 21,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s find",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 44,
+      "textLeft": 20,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#171b1e].px-5",
+      "tag": "footer",
+      "top": 7619,
+      "height": 284,
+      "words": 20,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 37,
+      "textLeft": 20,
+      "textRight": 37,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Weteach beforeyoupay.",
+      "size": 58,
+      "top": 198,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 11
+     },
+     {
+      "x": 44,
+      "n": 8
+     },
+     {
+      "x": 106,
+      "n": 1
+     },
+     {
+      "x": 142,
+      "n": 1
+     },
+     {
+      "x": 168,
+      "n": 1
+     },
+     {
+      "x": 258,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 2 picture(s) on the page (2 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 206 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch).",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 112px on the left, 88px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 768,
+   "message": "2 eyebrow/kicker label(s) above headings: \"Read on Facebook\" above \"The house was perfect… until night fell\"; \"Read on Facebook\" above \"The neighbour knew everything… but nobod\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "palette-terracotta",
+   "width": 768,
+   "message": "Terracotta / rust-orange accent (section #e8735a).",
+   "fix": "Use the accent from the drawn palette.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"The neighbour knew everything… but nobody asked\" → 3 lines (7 words, 30px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/06-properties-in-lekki/screens/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/06-properties-in-lekki/screens/inspect/desktop-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/06-properties-in-lekki/screens/inspect/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/06-properties-in-lekki/screens/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/06-properties-in-lekki/screens/inspect/tablet-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/06-properties-in-lekki/screens/inspect/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/06-properties-in-lekki/screens/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/06-properties-in-lekki/screens/inspect/mobile-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/06-properties-in-lekki/screens/inspect/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

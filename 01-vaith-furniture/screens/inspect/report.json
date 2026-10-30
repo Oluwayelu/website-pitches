@@ -1,0 +1,2768 @@
+{
+ "url": "http://localhost:4830/",
+ "at": "2026-10-30T20:00:04.586Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.43,
+    0.54,
+    0.93,
+    0.68,
+    0.74,
+    0.66,
+    0.8
+   ],
+   "motion": {
+    "elements": 33,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 32,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5678,
+     "screens": 6.3,
+     "words": 465,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 22,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "sofa.webp",
+      "sofa.webp",
+      "sofa.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Furniture that makes your home feel finished.",
+     "words": 7,
+     "chars": 45,
+     "lines": 2,
+     "size": 52.8,
+     "vw": 3.7,
+     "font": "Fraunces",
+     "weight": 500,
+     "tracking": -0.025,
+     "leading": 1.04,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.44,
+     "top": 363,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Furniture that makes your home feel finished.",
+     "words": 7,
+     "lines": 2,
+     "size": 52.8,
+     "font": "Fraunces"
+    },
+    "headings": [
+     {
+      "text": "Furniture that makes your home feel finished.",
+      "words": 7,
+      "chars": 45,
+      "lines": 2,
+      "size": 52.8,
+      "vw": 3.7,
+      "font": "Fraunces",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 363,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "6.7K",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.1,
+      "top": 967,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "100%",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.1,
+      "top": 967,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Delivery",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.08,
+      "top": 967,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Ikeja",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.12,
+      "top": 967,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Find the piece that fits your space.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 1191,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Available now, ordered in one tap.",
+      "words": 6,
+      "chars": 34,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 2053,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Built from scratch, frame to finish.",
+      "words": 6,
+      "chars": 36,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 3283,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Three steps, one chat.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 3873,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.02,
+      "top": 4002,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.02,
+      "top": 4002,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "3",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 4002,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "100% of reviewers recommend us.",
+      "words": 5,
+      "chars": 31,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.58,
+      "top": 4481,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s furnish your space.",
+      "words": 4,
+      "chars": 25,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 5005,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 1,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Figtree",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Fraunces",
+       "share": 0.23,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      48,
+      53,
+      60
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Figtree",
+      "size": 18,
+      "leading": 1.63,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8
+     },
+     "measureChars": 50,
+     "max": {
+      "size": 60,
+      "vw": 4.2,
+      "font": "Fraunces",
+      "text": "1"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f6f1ea",
+     "bodyBgHsl": {
+      "h": 35,
+      "s": 0.4,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#3b2a20",
+       "top": 3749,
+       "hsl": {
+        "h": 22,
+        "s": 0.3,
+        "l": 0.18
+       }
+      },
+      {
+       "color": "#2a1d15",
+       "top": 4881,
+       "hsl": {
+        "h": 23,
+        "s": 0.33,
+        "l": 0.12
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#f6f1ea",
+       "share": 0.32
+      },
+      {
+       "color": "#5a4538",
+       "share": 0.25
+      },
+      {
+       "color": "#3b2a20",
+       "share": 0.18
+      },
+      {
+       "color": "#7c5a1e",
+       "share": 0.16
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#3b2a20",
+      "hsl": {
+       "h": 22,
+       "s": 0.3,
+       "l": 0.18
+      },
+      "fg": "#f6f1ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 13,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 40,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Shop on WhatsApp",
+      "Shop on WhatsApp"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 15,
+     "boxRadius": 16,
+     "squareMedia": 0,
+     "roundedMedia": 3,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 3969
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.26
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 96,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "fraunces",
+     "figtree"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5678,
+    "margins": {
+     "left": 112,
+     "right": 112
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 131,
+      "height": 792,
+      "words": 33,
+      "media": 1,
+      "middle": 139,
+      "heading": {
+       "text": "Furniture that makes",
+       "size": 53,
+       "tag": "h1"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 486,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-walnut.text-ivory",
+      "tag": "section",
+      "top": 923,
+      "height": 144,
+      "words": 16,
+      "media": 0,
+      "middle": 187,
+      "heading": {
+       "text": "6.7K",
+       "size": 30,
+       "tag": "p"
+      },
+      "left": 112,
+      "right": 222,
+      "textLeft": 112,
+      "textRight": 222,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#shop.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 1067,
+      "height": 861,
+      "words": 58,
+      "media": 1,
+      "middle": 58,
+      "heading": {
+       "text": "Find the piece that fits your space.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 153,
+      "textLeft": 112,
+      "textRight": 153,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#pieces.bg-ivory-2/60.py-20",
+      "tag": "section",
+      "top": 1929,
+      "height": 1231,
+      "words": 115,
+      "media": 1,
+      "middle": 40,
+      "heading": {
+       "text": "Available now, ordered in one tap.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 128,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#craft.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 3159,
+      "height": 589,
+      "words": 65,
+      "media": 0,
+      "middle": 83,
+      "heading": {
+       "text": "Built from scratch,",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 118,
+      "textLeft": 112,
+      "textRight": 118,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#how.bg-walnut.py-20",
+      "tag": "section",
+      "top": 3749,
+      "height": 608,
+      "words": 45,
+      "media": 0,
+      "middle": 83,
+      "heading": {
+       "text": "Three steps, one chat.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 166,
+      "textLeft": 112,
+      "textRight": 166,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.mx-auto.max-w-4xl",
+      "tag": "section",
+      "top": 4357,
+      "height": 524,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "100% of reviewers recommend us.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 353,
+      "right": 353,
+      "textLeft": 353,
+      "textRight": 353,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.relative.overflow-hidden",
+      "tag": "section",
+      "top": 4881,
+      "height": 661,
+      "words": 57,
+      "media": 0,
+      "middle": 157,
+      "heading": {
+       "text": "Let’s furnish your space.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 144,
+      "textLeft": 112,
+      "textRight": 322,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#1F1510].px-5",
+      "tag": "footer",
+      "top": 5542,
+      "height": 136,
+      "words": 15,
+      "media": 0,
+      "middle": 351,
+      "heading": {
+       "text": "VAITH",
+       "size": 24,
+       "tag": "span"
+      },
+      "left": 80,
+      "right": 80,
+      "textLeft": 80,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Furniture that makes your home feel finished.",
+      "size": 53,
+      "top": 363,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 112,
+      "n": 14
+     },
+     {
+      "x": 525,
+      "n": 2
+     },
+     {
+      "x": 939,
+      "n": 2
+     },
+     {
+      "x": 152,
+      "n": 1
+     },
+     {
+      "x": 421,
+      "n": 1
+     },
+     {
+      "x": 460,
+      "n": 1
+     },
+     {
+      "x": 558,
+      "n": 1
+     },
+     {
+      "x": 730,
+      "n": 1
+     },
+     {
+      "x": 792,
+      "n": 1
+     },
+     {
+      "x": 963,
+      "n": 1
+     },
+     {
+      "x": 1039,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.14,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 780,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.55,
+    0.76,
+    0.86,
+    0.98,
+    0.57,
+    0.84,
+    0.69,
+    0.63
+   ],
+   "motion": {
+    "elements": 33,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 32,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 7405,
+     "screens": 7.2,
+     "words": 465,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 22,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "sofa.webp",
+      "sofa.webp",
+      "sofa.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Furniture that makes your home feel finished.",
+     "words": 7,
+     "chars": 45,
+     "lines": 2,
+     "size": 48,
+     "vw": 6.3,
+     "font": "Fraunces",
+     "weight": 500,
+     "tracking": -0.025,
+     "leading": 1.04,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 175,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Furniture that makes your home feel finished.",
+     "words": 7,
+     "lines": 2,
+     "size": 48,
+     "font": "Fraunces"
+    },
+    "headings": [
+     {
+      "text": "Furniture that makes your home feel finished.",
+      "words": 7,
+      "chars": 45,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 175,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "6.7K",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.18,
+      "top": 1153,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "100%",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.19,
+      "top": 1153,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Delivery",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.15,
+      "top": 1234,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Ikeja",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.22,
+      "top": 1234,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Find the piece that fits your space.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 1426,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Available now, ordered in one tap.",
+      "words": 6,
+      "chars": 34,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 2785,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Built from scratch, frame to finish.",
+      "words": 6,
+      "chars": 36,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4391,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Three steps, one chat.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5268,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 60,
+      "vw": 7.8,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 5389,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 60,
+      "vw": 7.8,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.04,
+      "top": 5389,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "3",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 60,
+      "vw": 7.8,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 5389,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "100% of reviewers recommend us.",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5820,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s furnish your space.",
+      "words": 4,
+      "chars": 25,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6328,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 1,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Figtree",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Fraunces",
+       "share": 0.23,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      48,
+      60
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Figtree",
+      "size": 18,
+      "leading": 1.63,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8
+     },
+     "measureChars": 78,
+     "max": {
+      "size": 60,
+      "vw": 7.8,
+      "font": "Fraunces",
+      "text": "1"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f6f1ea",
+     "bodyBgHsl": {
+      "h": 35,
+      "s": 0.4,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ede5d8",
+       "top": 485,
+       "hsl": {
+        "h": 37,
+        "s": 0.37,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#3b2a20",
+       "top": 5176,
+       "hsl": {
+        "h": 22,
+        "s": 0.3,
+        "l": 0.18
+       }
+      },
+      {
+       "color": "#2a1d15",
+       "top": 6236,
+       "hsl": {
+        "h": 23,
+        "s": 0.33,
+        "l": 0.12
+       }
+      },
+      {
+       "color": "#f6f1ea",
+       "top": 6752,
+       "hsl": {
+        "h": 35,
+        "s": 0.4,
+        "l": 0.94
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#f6f1ea",
+       "share": 0.32
+      },
+      {
+       "color": "#5a4538",
+       "share": 0.25
+      },
+      {
+       "color": "#3b2a20",
+       "share": 0.18
+      },
+      {
+       "color": "#7c5a1e",
+       "share": 0.16
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#3b2a20",
+      "hsl": {
+       "h": 22,
+       "s": 0.3,
+       "l": 0.18
+      },
+      "fg": "#f6f1ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 13,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 40,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Shop on WhatsApp",
+      "Shop on WhatsApp"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 15,
+     "boxRadius": 16,
+     "squareMedia": 0,
+     "roundedMedia": 3,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 5364
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.31
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 96,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "fraunces",
+     "fraunces fallback",
+     "figtree",
+     "figtree fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 7405,
+    "margins": {
+     "left": 32,
+     "right": 48
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 151,
+      "height": 958,
+      "words": 33,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Furniture that makes",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 160,
+      "textLeft": 32,
+      "textRight": 237,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-walnut.text-ivory",
+      "tag": "section",
+      "top": 1109,
+      "height": 225,
+      "words": 16,
+      "media": 0,
+      "middle": 212,
+      "heading": {
+       "text": "6.7K",
+       "size": 30,
+       "tag": "p"
+      },
+      "left": 32,
+      "right": 215,
+      "textLeft": 32,
+      "textRight": 215,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#shop.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 1334,
+      "height": 1359,
+      "words": 58,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Find the piece that fits your space.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 66,
+      "textLeft": 32,
+      "textRight": 66,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#pieces.bg-ivory-2/60.py-20",
+      "tag": "section",
+      "top": 2693,
+      "height": 1606,
+      "words": 115,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Available now, ordered in one tap.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 48,
+      "textLeft": 32,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#craft.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 4299,
+      "height": 878,
+      "words": 65,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Built from scratch,",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 45,
+      "textLeft": 32,
+      "textRight": 45,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#how.bg-walnut.py-20",
+      "tag": "section",
+      "top": 5176,
+      "height": 552,
+      "words": 45,
+      "media": 0,
+      "middle": 35,
+      "heading": {
+       "text": "Three steps, one chat.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 72,
+      "textLeft": 32,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.mx-auto.max-w-4xl",
+      "tag": "section",
+      "top": 5728,
+      "height": 508,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "100% of reviewers recommend us.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 52,
+      "right": 52,
+      "textLeft": 52,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.relative.overflow-hidden",
+      "tag": "section",
+      "top": 6236,
+      "height": 1033,
+      "words": 57,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s furnish your space.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 64,
+      "textLeft": 32,
+      "textRight": 213,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#1F1510].px-5",
+      "tag": "footer",
+      "top": 7269,
+      "height": 136,
+      "words": 15,
+      "media": 0,
+      "middle": 63,
+      "heading": {
+       "text": "VAITH",
+       "size": 24,
+       "tag": "span"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Furniture that makes your home feel finished.",
+      "size": 48,
+      "top": 175,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 16
+     },
+     {
+      "x": 394,
+      "n": 5
+     },
+     {
+      "x": 64,
+      "n": 2
+     },
+     {
+      "x": 299,
+      "n": 1
+     },
+     {
+      "x": 352,
+      "n": 1
+     },
+     {
+      "x": 534,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.58,
+    0.7,
+    0.85,
+    0.88,
+    0.89,
+    0.98,
+    1,
+    0.85,
+    0.68,
+    0.92,
+    0.9,
+    0.8
+   ],
+   "motion": {
+    "elements": 31,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 30,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 11632,
+     "screens": 13.8,
+     "words": 458,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 22,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "sofa.webp",
+      "sofa.webp",
+      "sofa.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Furniture that makes your home feel finished.",
+     "words": 7,
+     "chars": 45,
+     "lines": 4,
+     "size": 38.4,
+     "vw": 9.8,
+     "font": "Fraunces",
+     "weight": 500,
+     "tracking": -0.025,
+     "leading": 1.04,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 194,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Furniture that makes your home feel finished.",
+     "words": 7,
+     "lines": 4,
+     "size": 38.4,
+     "font": "Fraunces"
+    },
+    "headings": [
+     {
+      "text": "VAITH",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 94,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Furniture that makes your home feel finished.",
+      "words": 7,
+      "chars": 45,
+      "lines": 4,
+      "size": 38.4,
+      "vw": 9.8,
+      "font": "Fraunces",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 194,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "6.7K",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 1163,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "100%",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 1163,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Ikeja",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 1242,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Delivery",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 1254,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Find the piece that fits your space.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1456,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Available now, ordered in one tap.",
+      "words": 6,
+      "chars": 34,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3850,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Built from scratch, frame to finish.",
+      "words": 6,
+      "chars": 36,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6715,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Three steps, one chat.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 8840,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 60,
+      "vw": 15.4,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 8959,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Pick a piece or send your idea",
+      "words": 7,
+      "chars": 30,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.73,
+      "top": 9042,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 60,
+      "vw": 15.4,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 9220,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Confirm on WhatsApp",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.73,
+      "top": 9303,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "3",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 60,
+      "vw": 15.4,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 9449,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Delivered, or collect in Ikeja",
+      "words": 5,
+      "chars": 30,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.73,
+      "top": 9532,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "100% of reviewers recommend us.",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 9832,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your 11 Facebook reviews go here",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 10019,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Let’s furnish your space.",
+      "words": 4,
+      "chars": 25,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 10395,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Request a custom piece",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 10849,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "VAITH",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 11420,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 21,
+     "maxLines": 4,
+     "over2Lines": 1,
+     "statements": 5,
+     "centered": 2,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Figtree",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Fraunces",
+       "share": 0.23,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      38,
+      60
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Figtree",
+      "size": 16,
+      "leading": 1.63,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 60,
+      "vw": 15.4,
+      "font": "Fraunces",
+      "text": "1"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.12,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f6f1ea",
+     "bodyBgHsl": {
+      "h": 35,
+      "s": 0.4,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ede5d8",
+       "top": 618,
+       "hsl": {
+        "h": 37,
+        "s": 0.37,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#3b2a20",
+       "top": 8748,
+       "hsl": {
+        "h": 22,
+        "s": 0.3,
+        "l": 0.18
+       }
+      },
+      {
+       "color": "#2a1d15",
+       "top": 10275,
+       "hsl": {
+        "h": 23,
+        "s": 0.33,
+        "l": 0.12
+       }
+      },
+      {
+       "color": "#f6f1ea",
+       "top": 10825,
+       "hsl": {
+        "h": 35,
+        "s": 0.4,
+        "l": 0.94
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#f6f1ea",
+       "share": 0.32
+      },
+      {
+       "color": "#5a4538",
+       "share": 0.24
+      },
+      {
+       "color": "#3b2a20",
+       "share": 0.19
+      },
+      {
+       "color": "#7c5a1e",
+       "share": 0.16
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#3b2a20",
+      "hsl": {
+       "h": 22,
+       "s": 0.3,
+       "l": 0.18
+      },
+      "fg": "#f6f1ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 13,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 40,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "WhatsApp",
+      "Shop on WhatsApp"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 15,
+     "boxRadius": 16,
+     "squareMedia": 0,
+     "roundedMedia": 3,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 8934
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.24
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 96,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "fraunces",
+     "figtree"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 11632,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 170,
+      "height": 949,
+      "words": 33,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Furniture that makes",
+       "size": 38,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-walnut.text-ivory",
+      "tag": "section",
+      "top": 1119,
+      "height": 245,
+      "words": 16,
+      "media": 0,
+      "middle": 14,
+      "heading": {
+       "text": "6.7K",
+       "size": 24,
+       "tag": "p"
+      },
+      "left": 20,
+      "right": 25,
+      "textLeft": 20,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#shop.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 1364,
+      "height": 2394,
+      "words": 58,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Find the piece that fits your space.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#pieces.bg-ivory-2/60.py-20",
+      "tag": "section",
+      "top": 3758,
+      "height": 2865,
+      "words": 115,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Available now, ordered in one tap.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#craft.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 6623,
+      "height": 2125,
+      "words": 65,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Built from scratch,",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 29,
+      "textLeft": 20,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#how.bg-walnut.py-20",
+      "tag": "section",
+      "top": 8748,
+      "height": 992,
+      "words": 45,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Three steps, one chat.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 54,
+      "textLeft": 20,
+      "textRight": 54,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.mx-auto.max-w-4xl",
+      "tag": "section",
+      "top": 9740,
+      "height": 535,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "100% of reviewers recommend us.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 53,
+      "right": 53,
+      "textLeft": 53,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.relative.overflow-hidden",
+      "tag": "section",
+      "top": 10275,
+      "height": 1105,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#1F1510].px-5",
+      "tag": "footer",
+      "top": 11380,
+      "height": 252,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "VAITH",
+       "size": 24,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 32,
+      "textLeft": 20,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Furniture that makes your home feel finished.",
+      "size": 38,
+      "top": 194,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 20
+     },
+     {
+      "x": 52,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f6f1ea, text #f6f1ea).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 3 picture(s) on the page (3 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "focal-point",
+   "width": 1440,
+   "message": "The first screen has no dominant element: the largest type is 52.8px (3.7vw) and no single picture holds a third of the viewport.",
+   "fix": "Make one thing lead: the headline at display size, or one large picture. A grid of many small pictures is not one thing; in blind tests jurors marked a first screen without a headline down every time. On the strongest studied sites the largest type has a median of 8.4vw."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 768,
+   "message": "The margins differ: 32px on the left, 48px on the right, at 768px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"Furniture that makes your home feel finished.\" → 4 lines (7 words, 38.4px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/01-vaith-furniture/screens/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/01-vaith-furniture/screens/inspect/desktop-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/01-vaith-furniture/screens/inspect/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/01-vaith-furniture/screens/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/01-vaith-furniture/screens/inspect/tablet-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/01-vaith-furniture/screens/inspect/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/01-vaith-furniture/screens/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/01-vaith-furniture/screens/inspect/mobile-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/01-vaith-furniture/screens/inspect/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

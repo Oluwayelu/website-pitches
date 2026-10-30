@@ -15,6 +15,13 @@ html { scroll-behavior: smooth; scroll-padding-top: 80px; }
 body { background: var(--color-ivory); color: var(--color-walnut); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 :focus-visible { outline: 2px solid var(--color-brass-d); outline-offset: 3px; border-radius: 4px; }
-.grain::before { content: ""; position: absolute; inset: 0; pointer-events: none; opacity: .5;
-  background-image: radial-gradient(rgba(59,42,32,.07) 1px, transparent 1px); background-size: 6px 6px; }
-.ph { background: repeating-linear-gradient(135deg, rgba(184,138,68,.10) 0 10px, transparent 10px 20px), linear-gradient(160deg, #EFE6D6, #E3D5BD); border: 1.5px dashed rgba(124,90,30,.45); }
+
+.ph { background: color-mix(in srgb, currentColor 11%, transparent); }
+
+@media (prefers-reduced-motion: reduce) {
+  [style*="translateY(10"], [style*="translateY(11"] { transform: none !important; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  [style*="opacity: 0"] { opacity: 1 !important; }
+}

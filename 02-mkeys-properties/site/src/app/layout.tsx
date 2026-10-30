@@ -1,9 +1,9 @@
 import type { Metadata, Viewport } from 'next';
-import { Playfair_Display, Manrope } from 'next/font/google';
+import { Newsreader, Manrope } from 'next/font/google';
 import './globals.css';
 import { BIZ } from '@/content';
 
-const playfair = Playfair_Display({ subsets: ['latin'], variable: '--font-playfair' });
+const playfair = Newsreader({ subsets: ['latin'], variable: '--font-playfair' });
 const manrope = Manrope({ subsets: ['latin'], variable: '--font-manrope' });
 
 export const metadata: Metadata = {

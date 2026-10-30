@@ -41,9 +41,9 @@ export const PIECES = [
 ];
 
 export const CRAFT = [
-  { n: '01', t: 'Frame', d: 'Built from scratch by our own craftsmen.' },
-  { n: '02', t: 'Upholstery', d: 'Fabric and finish in the style of your choice.' },
-  { n: '03', t: 'Finished', d: 'Delivered to you, or collect in Ikeja.' },
+  { t: 'Frame', d: 'Built from scratch by our own craftsmen.' },
+  { t: 'Upholstery', d: 'Fabric and finish in the style of your choice.' },
+  { t: 'Finished', d: 'Delivered to you, or collect in Ikeja.' },
 ];
 
 export const STEPS = [

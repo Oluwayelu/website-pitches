@@ -7,4 +7,12 @@ html { scroll-behavior: smooth; scroll-padding-top: 76px; }
 body { background: var(--color-snow); color: var(--color-cocoa); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 :focus-visible { outline: 2px solid var(--color-gold-d); outline-offset: 3px; border-radius: 4px; }
-.ph { background: linear-gradient(145deg, var(--color-blush), var(--color-mint)); border: 1.5px dashed rgba(126,98,40,.55); }
+.ph { background: color-mix(in srgb, currentColor 11%, transparent); }
+
+@media (prefers-reduced-motion: reduce) {
+  [style*="translateY(10"], [style*="translateY(11"] { transform: none !important; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  [style*="opacity: 0"] { opacity: 1 !important; }
+}

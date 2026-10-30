@@ -10,14 +10,14 @@ export const wa = (t: string) => `https://wa.me/${BIZ.whatsapp}?text=${encodeURI
 
 // Episode titles are quoted from their Facebook posts.
 export const EPISODES = [
-  { n: '01', t: 'The rent was cheap… until they gave us the bill', tag: 'Renting' },
-  { n: '02', t: 'The house was perfect… until night fell', tag: 'Inspection' },
-  { n: '03', t: 'The neighbour knew everything… but nobody asked', tag: 'Due diligence' },
+  { t: 'The rent was cheap… until they gave us the bill', tag: 'Renting' },
+  { t: 'The house was perfect… until night fell', tag: 'Inspection' },
+  { t: 'The neighbour knew everything… but nobody asked', tag: 'Due diligence' },
 ];
 export const LISTINGS = [
-  { id: 'duplex', t: 'Luxury fully detached duplex', status: 'For sale', real: true },
-  { id: 'l2', t: 'Your next listing', status: '', real: false },
-  { id: 'l3', t: 'Your next listing', status: '', real: false },
+  { id: 'duplex', t: 'Luxury fully detached duplex', status: 'For sale', real: true, img: '', alt: '' },
+  { id: 'wealthland', t: 'Wealthland Green Estate', status: 'From the 2021 blog', real: true, img: '/img/wealthland.webp', alt: 'Artist render of Wealthland Green Estate: terraced homes along a palm-lined street' },
+  { id: 'selfcon', t: 'Self-contain for rent, Ilasan, Lekki', status: 'From the 2021 blog', real: true, img: '/img/selfcon.webp', alt: 'Inside a self-contained apartment in Ilasan, Lekki' },
 ];
 // Generic educational tips (not claims about the business).
 export const CHECKLIST = [

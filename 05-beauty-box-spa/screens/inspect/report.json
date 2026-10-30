@@ -1,0 +1,2279 @@
+{
+ "url": "http://localhost:4622/",
+ "at": "2026-10-30T20:06:55.108Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.76,
+    0.46,
+    0.65,
+    0.83,
+    0.64,
+    0.8
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 8,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5227,
+     "screens": 5.8,
+     "words": 309,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 21,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Unbox your beauty.",
+     "words": 3,
+     "chars": 18,
+     "lines": 2,
+     "size": 99.2,
+     "vw": 6.9,
+     "font": "Bodoni Moda",
+     "weight": 500,
+     "tracking": 0,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.41,
+     "top": 222,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Unbox your beauty.",
+     "words": 3,
+     "lines": 2,
+     "size": 99.2,
+     "font": "Bodoni Moda"
+    },
+    "headings": [
+     {
+      "text": "Unbox your beauty.",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 99.2,
+      "vw": 6.9,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 222,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Choose your treat.",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 931,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Nails",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1019,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Face",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1091,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Body & Massage",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1163,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Waxing & Tinting",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1235,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Makeup",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1307,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Kids",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1379,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Tiny canvases, big art.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 1683,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ask about current offers",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 2842,
+      "mixedFonts": [
+       "Bodoni Moda",
+       "Bodoni Moda italic"
+      ],
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Little ones deserve pampering too.",
+      "words": 5,
+      "chars": 34,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 3255,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready to launch a high-income beauty career?",
+      "words": 7,
+      "chars": 44,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 3889,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your appointment awaits.",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 4293,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Jost",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Bodoni Moda",
+       "share": 0.23,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      48,
+      99
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Jost",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 11.1
+     },
+     "measureChars": 206,
+     "max": {
+      "size": 99.2,
+      "vw": 6.9,
+      "font": "Bodoni Moda",
+      "text": "Unbox beauty."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.04,
+     "centerShare": 0.17,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fffdfb",
+     "bodyBgHsl": {
+      "h": 30,
+      "s": 1,
+      "l": 0.99
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fffdfb",
+       "top": 1671,
+       "hsl": {
+        "h": 30,
+        "s": 1,
+        "l": 0.99
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#2e1e1a",
+       "share": 0.42
+      },
+      {
+       "color": "#4a3630",
+       "share": 0.24
+      },
+      {
+       "color": "#7e6228",
+       "share": 0.16
+      },
+      {
+       "color": "#fffefb",
+       "share": 0.08
+      },
+      {
+       "color": "#fffdfb",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#2e1e1a",
+      "hsl": {
+       "h": 12,
+       "s": 0.28,
+       "l": 0.14
+      },
+      "fg": "#fffdfb"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book on WhatsApp",
+      "Book on WhatsApp"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 13,
+     "boxRadius": 24,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 1771
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 4281
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.15
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bodoni moda",
+     "jost"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5227,
+    "margins": {
+     "left": 112,
+     "right": 112
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 119,
+      "height": 616,
+      "words": 22,
+      "media": 1,
+      "middle": 153,
+      "heading": {
+       "text": "Unbox",
+       "size": 99,
+       "tag": "h1"
+      },
+      "left": 112,
+      "right": 182,
+      "textLeft": 112,
+      "textRight": 783,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#menu.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 807,
+      "height": 864,
+      "words": 46,
+      "media": 0,
+      "middle": 179,
+      "heading": {
+       "text": "Choose your",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 164,
+      "textLeft": 112,
+      "textRight": 164,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#nails.bg-snow.pb-20",
+      "tag": "section",
+      "top": 1671,
+      "height": 1383,
+      "words": 51,
+      "media": 0,
+      "middle": 252,
+      "heading": {
+       "text": "Tiny canvases,",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 136,
+      "textLeft": 112,
+      "textRight": 136,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#kids.bg-mint/50.py-20",
+      "tag": "section",
+      "top": 3054,
+      "height": 634,
+      "words": 19,
+      "media": 0,
+      "middle": 319,
+      "heading": {
+       "text": "Little ones deserve",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 351,
+      "right": 239,
+      "textLeft": 760,
+      "textRight": 239,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#academy.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 3687,
+      "height": 482,
+      "words": 28,
+      "media": 0,
+      "middle": 160,
+      "heading": {
+       "text": "Ready to launch a",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 160,
+      "right": 179,
+      "textLeft": 160,
+      "textRight": 179,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#visit.bg-blush/70.py-20",
+      "tag": "section",
+      "top": 4169,
+      "height": 926,
+      "words": 49,
+      "media": 1,
+      "middle": 82,
+      "heading": {
+       "text": "Your appointment",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 217,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-cocoa.px-5",
+      "tag": "footer",
+      "top": 5095,
+      "height": 132,
+      "words": 22,
+      "media": 0,
+      "middle": 279,
+      "heading": null,
+      "left": 126,
+      "right": 80,
+      "textLeft": 126,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Unbox your beauty.",
+      "size": 99,
+      "top": 222,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 112,
+      "n": 6
+     },
+     {
+      "x": 160,
+      "n": 2
+     },
+     {
+      "x": 440,
+      "n": 2
+     },
+     {
+      "x": 760,
+      "n": 2
+     },
+     {
+      "x": 321,
+      "n": 1
+     },
+     {
+      "x": 402,
+      "n": 1
+     },
+     {
+      "x": 522,
+      "n": 1
+     },
+     {
+      "x": 845,
+      "n": 1
+     },
+     {
+      "x": 1008,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 17,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.11,
+    "voidBox": {
+     "x": 1260,
+     "y": 120,
+     "w": 180,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.9,
+    0.64,
+    0.64,
+    0.92,
+    0.55,
+    0.88
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 8,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5983,
+     "screens": 5.8,
+     "words": 303,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 21,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Unbox your beauty.",
+     "words": 3,
+     "chars": 18,
+     "lines": 1,
+     "size": 72,
+     "vw": 9.4,
+     "font": "Bodoni Moda",
+     "weight": 500,
+     "tracking": 0,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 179,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Unbox your beauty.",
+     "words": 3,
+     "lines": 1,
+     "size": 72,
+     "font": "Bodoni Moda"
+    },
+    "headings": [
+     {
+      "text": "Unbox your beauty.",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 72,
+      "vw": 9.4,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 179,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Choose your treat.",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1177,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Tiny canvases, big art.",
+      "words": 4,
+      "chars": 23,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 2033,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ask about current offers",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 2813,
+      "mixedFonts": [
+       "Bodoni Moda",
+       "Bodoni Moda italic"
+      ],
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Little ones deserve pampering too.",
+      "words": 5,
+      "chars": 34,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3535,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready to launch a high-income beauty career?",
+      "words": 7,
+      "chars": 44,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 4029,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your appointment awaits.",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4521,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Jost",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Bodoni Moda",
+       "share": 0.23,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      48,
+      72
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Jost",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 11.1
+     },
+     "measureChars": 110,
+     "max": {
+      "size": 72,
+      "vw": 9.4,
+      "font": "Bodoni Moda",
+      "text": "Unbox beauty."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.04,
+     "centerShare": 0.18,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fffdfb",
+     "bodyBgHsl": {
+      "h": 30,
+      "s": 1,
+      "l": 0.99
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fffdfb",
+       "top": 2021,
+       "hsl": {
+        "h": 30,
+        "s": 1,
+        "l": 0.99
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#2e1e1a",
+       "share": 0.43
+      },
+      {
+       "color": "#4a3630",
+       "share": 0.22
+      },
+      {
+       "color": "#7e6228",
+       "share": 0.17
+      },
+      {
+       "color": "#fffefb",
+       "share": 0.09
+      },
+      {
+       "color": "#fffdfb",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#2e1e1a",
+      "hsl": {
+       "h": 12,
+       "s": 0.28,
+       "l": 0.14
+      },
+      "fg": "#fffdfb"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 13,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book on WhatsApp",
+      "Book on WhatsApp"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 13,
+     "boxRadius": 24,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 2169
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.26
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bodoni moda",
+     "jost"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5983,
+    "margins": {
+     "left": 32,
+     "right": 33
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 139,
+      "height": 843,
+      "words": 22,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Unbox",
+       "size": 72,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 81,
+      "textLeft": 32,
+      "textRight": 81,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#menu.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 1085,
+      "height": 936,
+      "words": 46,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Choose your",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 71,
+      "textLeft": 32,
+      "textRight": 84,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#nails.bg-snow.pb-20",
+      "tag": "section",
+      "top": 2021,
+      "height": 972,
+      "words": 51,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Tiny canvases,",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 56,
+      "textLeft": 32,
+      "textRight": 56,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#kids.bg-mint/50.py-20",
+      "tag": "section",
+      "top": 2993,
+      "height": 866,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 32,
+      "right": 67,
+      "textLeft": 32,
+      "textRight": 67,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#academy.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 3859,
+      "height": 570,
+      "words": 28,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ready to launch a",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 82,
+      "textLeft": 80,
+      "textRight": 82,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#visit.bg-blush/70.py-20",
+      "tag": "section",
+      "top": 4429,
+      "height": 1374,
+      "words": 49,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Your appointment",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 178,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-cocoa.px-5",
+      "tag": "footer",
+      "top": 5803,
+      "height": 180,
+      "words": 22,
+      "media": 0,
+      "middle": 72,
+      "heading": null,
+      "left": 72,
+      "right": 33,
+      "textLeft": 72,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Unbox your beauty.",
+      "size": 72,
+      "top": 179,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 8
+     },
+     {
+      "x": 80,
+      "n": 3
+     },
+     {
+      "x": 241,
+      "n": 1
+     },
+     {
+      "x": 270,
+      "n": 1
+     },
+     {
+      "x": 322,
+      "n": 1
+     },
+     {
+      "x": 416,
+      "n": 1
+     },
+     {
+      "x": 428,
+      "n": 1
+     },
+     {
+      "x": 442,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 17,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.92,
+    0.57,
+    0.78,
+    0.67,
+    0.86,
+    0.69,
+    0.74,
+    0.83
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 8,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6386,
+     "screens": 7.6,
+     "words": 301,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 21,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Unbox your beauty.",
+     "words": 3,
+     "chars": 18,
+     "lines": 2,
+     "size": 54.4,
+     "vw": 13.9,
+     "font": "Bodoni Moda",
+     "weight": 500,
+     "tracking": 0,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 198,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Unbox your beauty.",
+     "words": 3,
+     "lines": 2,
+     "size": 54.4,
+     "font": "Bodoni Moda"
+    },
+    "headings": [
+     {
+      "text": "Unbox your beauty.",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 198,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Choose your treat.",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1194,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "3D nail designs",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 1571,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "UV gel",
+      "words": 2,
+      "chars": 6,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 1675,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Gel extensions",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 1739,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Nail art",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 1843,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Manicure",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 1907,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Pedicure (butterfly set)",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.66,
+      "top": 1971,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Tiny canvases, big art.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2255,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ask about current offers",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 3080,
+      "mixedFonts": [
+       "Bodoni Moda",
+       "Bodoni Moda italic"
+      ],
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Little ones deserve pampering too.",
+      "words": 5,
+      "chars": 34,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3788,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready to launch a high-income beauty career?",
+      "words": 7,
+      "chars": 44,
+      "lines": 3,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.73,
+      "top": 4250,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your appointment awaits.",
+      "words": 3,
+      "chars": 24,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4744,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your 2 Facebook reviews go here",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 5790,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 8,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Jost",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Bodoni Moda",
+       "share": 0.23,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      54
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Jost",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 11.1
+     },
+     "measureChars": 56,
+     "max": {
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Bodoni Moda",
+      "text": "Unbox beauty."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.04,
+     "centerShare": 0.18,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fffdfb",
+     "bodyBgHsl": {
+      "h": 30,
+      "s": 1,
+      "l": 0.99
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fffdfb",
+       "top": 2243,
+       "hsl": {
+        "h": 30,
+        "s": 1,
+        "l": 0.99
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#2e1e1a",
+       "share": 0.43
+      },
+      {
+       "color": "#4a3630",
+       "share": 0.22
+      },
+      {
+       "color": "#7e6228",
+       "share": 0.17
+      },
+      {
+       "color": "#fffefb",
+       "share": 0.09
+      },
+      {
+       "color": "#fffdfb",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#2e1e1a",
+      "hsl": {
+       "h": 12,
+       "s": 0.28,
+       "l": 0.14
+      },
+      "fg": "#fffdfb"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 13,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book",
+      "Book on WhatsApp"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 13,
+     "boxRadius": 24,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 2405
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 5288
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.29
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bodoni moda",
+     "jost",
+     "jost fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6386,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 158,
+      "height": 840,
+      "words": 22,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Unbox",
+       "size": 54,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#menu.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 1102,
+      "height": 1142,
+      "words": 46,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Choose your",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 60,
+      "textLeft": 20,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#nails.bg-snow.pb-20",
+      "tag": "section",
+      "top": 2243,
+      "height": 1133,
+      "words": 51,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Tiny canvases,",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 39,
+      "textLeft": 20,
+      "textRight": 39,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#kids.bg-mint/50.py-20",
+      "tag": "section",
+      "top": 3376,
+      "height": 720,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Little ones deserve",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 53,
+      "textLeft": 20,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#academy.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 4096,
+      "height": 556,
+      "words": 28,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ready to launch a",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 52,
+      "right": 59,
+      "textLeft": 52,
+      "textRight": 59,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#visit.bg-blush/70.py-20",
+      "tag": "section",
+      "top": 4652,
+      "height": 1493,
+      "words": 49,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Your appointment",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-cocoa.px-5",
+      "tag": "footer",
+      "top": 6146,
+      "height": 240,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 42,
+      "textLeft": 20,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Unbox your beauty.",
+      "size": 54,
+      "top": 198,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 10
+     },
+     {
+      "x": 52,
+      "n": 4
+     },
+     {
+      "x": 200,
+      "n": 2
+     },
+     {
+      "x": 229,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 17,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "mixed-font-headline",
+   "width": 1440,
+   "message": "1 headline(s) switch typeface or to italic mid-line (the \"one italic serif word\" move).",
+   "fix": "Set the whole headline in one face. Emphasis comes from the words.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "card-rows",
+   "width": 1440,
+   "message": "2 rows of identical boxed cards.",
+   "fix": "Vary the composition; not every section is a card grid.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #fffdfb, section #fffdfb, text #fffefb).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 0 picture(s) on the page (0 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 206 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch).",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 1440,
+   "message": "Left-aligned text starts at 9 different lines (112px, 160px, 440px, 760px, 321px, 402px, 522px); the three most used hold only 59% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 9 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"Ready to launch a high-income beauty career?\" → 3 lines (7 words, 30.4px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/05-beauty-box-spa/screens/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/05-beauty-box-spa/screens/inspect/desktop-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/05-beauty-box-spa/screens/inspect/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/05-beauty-box-spa/screens/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/05-beauty-box-spa/screens/inspect/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/05-beauty-box-spa/screens/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/05-beauty-box-spa/screens/inspect/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

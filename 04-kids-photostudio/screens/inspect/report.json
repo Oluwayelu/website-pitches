@@ -1,0 +1,2468 @@
+{
+ "url": "http://localhost:4864/",
+ "at": "2026-10-30T20:05:15.675Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.42,
+    0.46,
+    1,
+    0.61,
+    0.56,
+    0.8,
+    0.82
+   ],
+   "motion": {
+    "elements": 31,
+    "css": 8,
+    "transitions": 1,
+    "scripted": 22,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5460,
+     "screens": 6.1,
+     "words": 361,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 24,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "set-royal.webp",
+      "boy.webp",
+      "set-royal.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Birthday photos your child will treasure forever.",
+     "words": 7,
+     "chars": 49,
+     "lines": 3,
+     "size": 57.6,
+     "vw": 4,
+     "font": "Baloo 2",
+     "weight": 800,
+     "tracking": 0,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.43,
+     "top": 253,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Birthday photos your child will treasure forever.",
+     "words": 7,
+     "lines": 3,
+     "size": 57.6,
+     "font": "Baloo 2"
+    },
+    "headings": [
+     {
+      "text": "Birthday photos your child will treasure forever.",
+      "words": 7,
+      "chars": 49,
+      "lines": 3,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 253,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Every little moment, captured.",
+      "words": 4,
+      "chars": 30,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 963,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Colourful worlds, built for your child.",
+      "words": 6,
+      "chars": 39,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 1907,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Pick your party size.",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 3131,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Signature",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.23,
+      "top": 3241,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Starter",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 3257,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Party + Video",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 3257,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Booking in three taps.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 3703,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s plan the fun!",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 4175,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Inside Ikeja City Mall.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 4972,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Nunito",
+       "share": 0.56,
+       "mono": false
+      },
+      {
+       "family": "Baloo 2",
+       "share": 0.44,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      48,
+      58
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Nunito",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 500,
+      "tracking": 0,
+      "contrast": 9.4
+     },
+     "measureChars": 206,
+     "max": {
+      "size": 57.6,
+      "vw": 4,
+      "font": "Baloo 2",
+      "text": "Birthday photos your child will treasure"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.15,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fff8ee",
+     "bodyBgHsl": {
+      "h": 35,
+      "s": 1,
+      "l": 0.97
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#1f2a44",
+       "top": 1787,
+       "hsl": {
+        "h": 222,
+        "s": 0.37,
+        "l": 0.19
+       }
+      },
+      {
+       "color": "#ffc94a",
+       "top": 3607,
+       "hsl": {
+        "h": 42,
+        "s": 1,
+        "l": 0.65
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1f2a44",
+       "share": 0.43
+      },
+      {
+       "color": "#1f2944",
+       "share": 0.3
+      },
+      {
+       "color": "#fff8ee",
+       "share": 0.2
+      },
+      {
+       "color": "#1f2a43",
+       "share": 0.04
+      },
+      {
+       "color": "#202a44",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#1f2a44"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book a shoot",
+      "Book a shoot",
+      "See our sets"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 3,
+     "blurred": 0,
+     "roundedBoxes": 21,
+     "boxRadius": 24,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 3791
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.16
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "baloo 2",
+     "nunito"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5460,
+    "margins": {
+     "left": 107,
+     "right": 112
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 107,
+      "height": 668,
+      "words": 32,
+      "media": 1,
+      "middle": 144,
+      "heading": {
+       "text": "Birthday photos your child will treasure forever.",
+       "size": 58,
+       "tag": "h1"
+      },
+      "left": 112,
+      "right": 159,
+      "textLeft": 112,
+      "textRight": 345,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#shoots.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 843,
+      "height": 944,
+      "words": 53,
+      "media": 1,
+      "middle": 34,
+      "heading": {
+       "text": "Every little moment,",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 220,
+      "textLeft": 112,
+      "textRight": 220,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#sets.bg-ink.py-20",
+      "tag": "section",
+      "top": 1787,
+      "height": 1224,
+      "words": 35,
+      "media": 1,
+      "middle": 162,
+      "heading": {
+       "text": "Colourful worlds, built for your child.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 107,
+      "right": 249,
+      "textLeft": 112,
+      "textRight": 249,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#packages.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 3011,
+      "height": 596,
+      "words": 63,
+      "media": 0,
+      "middle": 145,
+      "heading": {
+       "text": "Pick your party size.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 207,
+      "textLeft": 112,
+      "textRight": 207,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#how.bg-sun.py-20",
+      "tag": "section",
+      "top": 3607,
+      "height": 448,
+      "words": 38,
+      "media": 0,
+      "middle": 153,
+      "heading": {
+       "text": "Booking in three taps.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 211,
+      "textLeft": 112,
+      "textRight": 211,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#book.mx-auto.max-w-5xl",
+      "tag": "section",
+      "top": 4055,
+      "height": 797,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s plan the fun!",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 240,
+      "right": 264,
+      "textLeft": 240,
+      "textRight": 435,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#find.bg-ink.py-20",
+      "tag": "section",
+      "top": 4852,
+      "height": 516,
+      "words": 16,
+      "media": 1,
+      "middle": 181,
+      "heading": {
+       "text": "Inside Ikeja City Mall.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 869,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Birthday photos your child will treasure forever.",
+      "size": 58,
+      "top": 253,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 112,
+      "n": 7
+     },
+     {
+      "x": 137,
+      "n": 5
+     },
+     {
+      "x": 961,
+      "n": 3
+     },
+     {
+      "x": 240,
+      "n": 2
+     },
+     {
+      "x": 549,
+      "n": 2
+     },
+     {
+      "x": 565,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.13,
+    "voidBox": {
+     "x": 0,
+     "y": 660,
+     "w": 1440,
+     "h": 120
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.52,
+    0.82,
+    1,
+    0.87,
+    0.74,
+    0.74,
+    0.93
+   ],
+   "motion": {
+    "elements": 31,
+    "css": 8,
+    "transitions": 1,
+    "scripted": 22,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 6753,
+     "screens": 6.6,
+     "words": 352,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 24,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "set-royal.webp",
+      "set-royal.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Birthday photos your child will treasure forever.",
+     "words": 7,
+     "chars": 49,
+     "lines": 2,
+     "size": 48,
+     "vw": 6.3,
+     "font": "Baloo 2",
+     "weight": 800,
+     "tracking": 0,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 187,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Birthday photos your child will treasure forever.",
+     "words": 7,
+     "lines": 2,
+     "size": 48,
+     "font": "Baloo 2"
+    },
+    "headings": [
+     {
+      "text": "Birthday photos your child will treasure forever.",
+      "words": 7,
+      "chars": 49,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 187,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Every little moment, captured.",
+      "words": 4,
+      "chars": 30,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1270,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Colourful worlds, built for your child.",
+      "words": 6,
+      "chars": 39,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2222,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Pick your party size.",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4100,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Signature",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.21,
+      "top": 4210,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Starter",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 4226,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Party + Video",
+      "words": 3,
+      "chars": 13,
+      "lines": 2,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.21,
+      "top": 4226,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Booking in three taps.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4728,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s plan the fun!",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 5204,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Inside Ikeja City Mall.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5937,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Nunito",
+       "share": 0.57,
+       "mono": false
+      },
+      {
+       "family": "Baloo 2",
+       "share": 0.43,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      48
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Nunito",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 500,
+      "tracking": 0,
+      "contrast": 9.4
+     },
+     "measureChars": 110,
+     "max": {
+      "size": 48,
+      "vw": 6.3,
+      "font": "Baloo 2",
+      "text": "Birthday photos your child will treasure"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.15,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fff8ee",
+     "bodyBgHsl": {
+      "h": 35,
+      "s": 1,
+      "l": 0.97
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 478,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#1f2a44",
+       "top": 2134,
+       "hsl": {
+        "h": 222,
+        "s": 0.37,
+        "l": 0.19
+       }
+      },
+      {
+       "color": "#ffc94a",
+       "top": 4648,
+       "hsl": {
+        "h": 42,
+        "s": 1,
+        "l": 0.65
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1f2a44",
+       "share": 0.42
+      },
+      {
+       "color": "#1f2944",
+       "share": 0.31
+      },
+      {
+       "color": "#fff8ee",
+       "share": 0.2
+      },
+      {
+       "color": "#1f2a43",
+       "share": 0.04
+      },
+      {
+       "color": "#202a44",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#1f2a44"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book a shoot",
+      "Book a shoot",
+      "See our sets"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 3,
+     "blurred": 0,
+     "roundedBoxes": 21,
+     "boxRadius": 24,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 4816
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.26
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "baloo 2",
+     "nunito"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 6753,
+    "margins": {
+     "left": 32,
+     "right": 31
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 127,
+      "height": 947,
+      "words": 32,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Birthday photos your child will treasure forever.",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 65,
+      "textLeft": 32,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#shoots.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 1182,
+      "height": 952,
+      "words": 53,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Every little moment,",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 74,
+      "textLeft": 32,
+      "textRight": 74,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#sets.bg-ink.py-20",
+      "tag": "section",
+      "top": 2134,
+      "height": 1878,
+      "words": 35,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Colourful worlds, built for your child.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 29,
+      "right": 31,
+      "textLeft": 32,
+      "textRight": 57,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#packages.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 4012,
+      "height": 636,
+      "words": 63,
+      "media": 0,
+      "middle": 74,
+      "heading": {
+       "text": "Pick your party size.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 66,
+      "textLeft": 32,
+      "textRight": 66,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#how.bg-sun.py-20",
+      "tag": "section",
+      "top": 4648,
+      "height": 468,
+      "words": 38,
+      "media": 0,
+      "middle": 28,
+      "heading": {
+       "text": "Booking in three taps.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 58,
+      "textLeft": 32,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#book.mx-auto.max-w-5xl",
+      "tag": "section",
+      "top": 5116,
+      "height": 733,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s plan the fun!",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 56,
+      "textLeft": 32,
+      "textRight": 151,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#find.bg-ink.py-20",
+      "tag": "section",
+      "top": 5849,
+      "height": 812,
+      "words": 16,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Inside Ikeja City Mall.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 277,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Birthday photos your child will treasure forever.",
+      "size": 48,
+      "top": 187,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 9
+     },
+     {
+      "x": 58,
+      "n": 5
+     },
+     {
+      "x": 419,
+      "n": 3
+     },
+     {
+      "x": 303,
+      "n": 1
+     },
+     {
+      "x": 485,
+      "n": 1
+     },
+     {
+      "x": 545,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.63,
+    0.56,
+    0.8,
+    0.92,
+    0.83,
+    0.8,
+    0.57,
+    0.73,
+    0.92,
+    1
+   ],
+   "motion": {
+    "elements": 31,
+    "css": 8,
+    "transitions": 1,
+    "scripted": 22,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 7955,
+     "screens": 9.4,
+     "words": 352,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 24,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "set-royal.webp",
+      "set-royal.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Birthday photos your child will treasure forever.",
+     "words": 7,
+     "chars": 49,
+     "lines": 3,
+     "size": 36.8,
+     "vw": 9.4,
+     "font": "Baloo 2",
+     "weight": 800,
+     "tracking": 0,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 206,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Birthday photos your child will treasure forever.",
+     "words": 7,
+     "lines": 3,
+     "size": 36.8,
+     "font": "Baloo 2"
+    },
+    "headings": [
+     {
+      "text": "Birthday photos your child will treasure forever.",
+      "words": 7,
+      "chars": 49,
+      "lines": 3,
+      "size": 36.8,
+      "vw": 9.4,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 206,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Every little moment, captured.",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1298,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Kids birthday shoots",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1541,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Family & adult portraits",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1777,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Maternity & newborn",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1989,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Pre-wedding",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 2201,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Model & product",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 2413,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Events & video",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 2625,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Colourful worlds, built for your child.",
+      "words": 6,
+      "chars": 39,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2881,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Pick your party size.",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4047,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Starter",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 4170,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Signature",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 4458,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Party + Video",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 4746,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Booking in three taps.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5144,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 5254,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 5442,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "3",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 5630,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Let’s plan the fun!",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5942,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Parent reviews go here",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 6789,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Inside Ikeja City Mall.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Baloo 2",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7089,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 20,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 7,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Nunito",
+       "share": 0.57,
+       "mono": false
+      },
+      {
+       "family": "Baloo 2",
+       "share": 0.43,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      37
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Nunito",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 500,
+      "tracking": 0,
+      "contrast": 9.4
+     },
+     "measureChars": 56,
+     "max": {
+      "size": 36.8,
+      "vw": 9.4,
+      "font": "Baloo 2",
+      "text": "Birthday photos your child will treasure"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.15,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fff8ee",
+     "bodyBgHsl": {
+      "h": 35,
+      "s": 1,
+      "l": 0.97
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 576,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#1f2a44",
+       "top": 2793,
+       "hsl": {
+        "h": 222,
+        "s": 0.37,
+        "l": 0.19
+       }
+      },
+      {
+       "color": "#ffc94a",
+       "top": 5064,
+       "hsl": {
+        "h": 42,
+        "s": 1,
+        "l": 0.65
+       }
+      },
+      {
+       "color": "#e3f2ff",
+       "top": 6156,
+       "hsl": {
+        "h": 208,
+        "s": 1,
+        "l": 0.95
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1f2a44",
+       "share": 0.42
+      },
+      {
+       "color": "#1f2944",
+       "share": 0.31
+      },
+      {
+       "color": "#fff8ee",
+       "share": 0.2
+      },
+      {
+       "color": "#1f2a43",
+       "share": 0.04
+      },
+      {
+       "color": "#202a44",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#1f2a44"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book a shoot",
+      "Book a shoot",
+      "See our sets"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 3,
+     "blurred": 0,
+     "roundedBoxes": 21,
+     "boxRadius": 24,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 5230
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.28
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "baloo 2",
+     "nunito"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 7955,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section#top.relative.overflow-hidden",
+      "tag": "section",
+      "top": 146,
+      "height": 932,
+      "words": 32,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Birthday photos your child will treasure forever.",
+       "size": 37,
+       "tag": "h1"
+      },
+      "left": 19,
+      "right": 15,
+      "textLeft": 20,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-sky",
+      "tag": "section",
+      "top": 1078,
+      "height": 132,
+      "words": 15,
+      "media": 0,
+      "middle": 55,
+      "heading": null,
+      "left": 44,
+      "right": 25,
+      "textLeft": 44,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#shoots.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 1210,
+      "height": 1583,
+      "words": 53,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Every little moment,",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 48,
+      "textLeft": 20,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#sets.bg-ink.py-20",
+      "tag": "section",
+      "top": 2793,
+      "height": 1165,
+      "words": 35,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Colourful worlds, built for your child.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 25,
+      "textLeft": 20,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#packages.mx-auto.max-w-7xl",
+      "tag": "section",
+      "top": 3959,
+      "height": 1106,
+      "words": 63,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Pick your party size.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 73,
+      "textLeft": 20,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#how.bg-sun.py-20",
+      "tag": "section",
+      "top": 5064,
+      "height": 790,
+      "words": 38,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Booking in three taps.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 67,
+      "textLeft": 20,
+      "textRight": 67,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#book.mx-auto.max-w-5xl",
+      "tag": "section",
+      "top": 5854,
+      "height": 1148,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s plan the fun!",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 44,
+      "textLeft": 20,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#find.bg-ink.py-20",
+      "tag": "section",
+      "top": 7001,
+      "height": 810,
+      "words": 16,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Inside Ikeja City Mall.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 34,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#161e33].px-5",
+      "tag": "footer",
+      "top": 7811,
+      "height": 144,
+      "words": 12,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 62,
+      "textLeft": 20,
+      "textRight": 62,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Birthday photos your child will treasure forever.",
+      "size": 37,
+      "top": 206,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 10
+     },
+     {
+      "x": 45,
+      "n": 10
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "1 headline(s) wrap past two lines at 1440px: \"Birthday photos your child will treasure forever\" → 3 lines (7 words, 57.6px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "dashed",
+   "width": 1440,
+   "message": "3 dashed/dotted border(s).",
+   "fix": "Remove unless it is a real drop zone.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #fff8ee, text #fff8ee).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 3 picture(s) on the page (3 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 206 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch).",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "focal-point",
+   "width": 1440,
+   "message": "The first screen has no dominant element: the largest type is 57.6px (4vw) and no single picture holds a third of the viewport.",
+   "fix": "Make one thing lead: the headline at display size, or one large picture. A grid of many small pictures is not one thing; in blind tests jurors marked a first screen without a headline down every time. On the strongest studied sites the largest type has a median of 8.4vw."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"Birthday photos your child will treasure forever\" → 3 lines (7 words, 36.8px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/04-kids-photostudio/screens/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/04-kids-photostudio/screens/inspect/desktop-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/04-kids-photostudio/screens/inspect/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/04-kids-photostudio/screens/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/04-kids-photostudio/screens/inspect/tablet-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/04-kids-photostudio/screens/inspect/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/04-kids-photostudio/screens/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/04-kids-photostudio/screens/inspect/mobile-page-01.jpg",
+    "/Users/mac/Documents/GitHub/grant-app/personal/website-pitches/04-kids-photostudio/screens/inspect/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
