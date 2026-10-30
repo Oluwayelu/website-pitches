@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@theme {
+  --color-mid: #14121A; --color-mid-2: #1E1B27; --color-gold: #E2B866; --color-gold-d: #7A5A16; --color-rose: #D9898F; --color-warm: #FBF6F0;
+  --font-display: var(--font-playfair), Georgia, serif; --font-sans: var(--font-mont), system-ui, sans-serif;
+}
+html { scroll-behavior: smooth; scroll-padding-top: 72px; background: var(--color-mid); }
+body { background: var(--color-mid); color: var(--color-warm); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .bokeh, .kb { animation: none !important; } }
+:focus-visible { outline: 2px solid var(--color-gold); outline-offset: 3px; border-radius: 4px; }
+.ph { border: 1.5px dashed rgba(226,184,102,.55); background: rgba(226,184,102,.06); }
+.grad-line { height: 3px; background: linear-gradient(90deg, #E8442A, #F5832A, #F5C02A); }
+@keyframes floaty { 0%,100% { transform: translate3d(0,0,0); opacity: .25; } 50% { transform: translate3d(20px,-40px,0); opacity: .55; } }
+@keyframes kb { from { transform: scale(1); } to { transform: scale(1.12); } }
+.kb { animation: kb 22s ease-in-out infinite alternate; will-change: transform; }
+.bokeh { position: absolute; border-radius: 9999px; background: radial-gradient(circle, rgba(226,184,102,.7), rgba(226,184,102,0) 70%); animation: floaty 9s ease-in-out infinite; pointer-events: none; }
