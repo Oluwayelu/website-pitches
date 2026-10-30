@@ -1,0 +1,19 @@
+{
+  "name": "website-pitches",
+  "version": "1.0.0",
+  "description": "Ten businesses chosen from the 97-lead list as **most likely to reply**. Every one of them: - **posted on Instagram or Facebook in the last ~2 months** (they're alive and marketing), - shows a **verified email or WhatsApp on its own social page**, and - has a **specific, checkable website problem** you can name in the first line of the email.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "lighthouse": "^13.6.0",
+    "puppeteer-core": "^25.16.0",
+    "serve": "^14.2.6",
+    "sharp": "^0.35.5"
+  }
+}

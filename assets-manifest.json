@@ -1,0 +1,65 @@
+{
+  "_note": "Permanent references to each business's own images, collected 30 Oct 2026. fetch-assets.mjs resolves fresh CDN URLs from these (Instagram/Facebook CDN links expire after a few days). 'direct' URLs are stable static files on their current websites.",
+  "01-vaith-furniture": {
+    "profile": "https://www.facebook.com/Vaithfurniture/",
+    "facebook_photo_ids": ["1111825424771361", "1109094648377772", "1106114235342480", "1106114192009151", "1106114132009157", "1106114068675830", "1106114002009170", "1106113925342511", "1103182775635626", "1102494202371150", "1101601725793731", "1099966755957228", "1099966752623895", "1099966749290562", "1099966745957229", "969857195634852", "161914466429133"]
+  },
+  "02-mkeys-properties": {
+    "profile": "https://www.instagram.com/mkeysproperties/",
+    "instagram_posts": ["DfE2YGGDoec", "DfCNx0nDlB4", "De_NB0bjmuT", "De42ws-jrYl", "DfFZpIbui8E", "DfE0swpORWU", "DfCbW07Ovd2", "De_qlZduZfn", "De9U8tGuzgk", "DVFtKdQjMS7", "DUmq0rVjKXN", "C6QbfIzsgyT"]
+  },
+  "03-lilish-beauty-empire": {
+    "profile": "https://www.instagram.com/lilish_beauty_empire/",
+    "instagram_posts": ["DfDCZY0oLYp", "DezmJPGoWpm", "DeNAD55IYyo", "DduEd5-ozqB", "Ddo20m-IQEf", "DdW2DX9oEUm", "DdUOEQHROEY", "DdRp7-iI_9p", "Dc9QlgLIALD", "Dc6pdnzIYe0", "Db_RnsVo2XN", "DbloBgQo3vs"]
+  },
+  "04-kids-photostudio": {
+    "profile": "https://www.facebook.com/birthdayphotostudio/",
+    "facebook_photo_ids": ["1558835536290064", "1558829772957307", "1523219593184992", "1523219589851659", "1523219586518326", "1523219583184993", "1523219579851660", "1523203156519969", "1523203153186636", "1523203149853303", "1523203146519970", "1517875610386057", "467035365470092", "467035362136759"],
+    "direct": ["https://listingsafrica.com/wp-content/uploads/listing-uploads/gallery/2022/02/28379064_154556521920830_7036656668032916751_n.jpg"]
+  },
+  "05-beauty-box-spa": {
+    "profile": "https://www.facebook.com/beautyboxsalon.ng",
+    "facebook_photo_ids": ["1499597728850262", "1408594561283913", "1395266165950086", "1391076893035680", "1374361391373897", "1326397589503611", "1318887726921264", "1308043464672357", "1301206352022735", "586952826781428", "586952823448095"],
+    "direct": ["https://connectciti-uploads.lon1.cdn.digitaloceanspaces.com/listing-uploads/gallery/2024/05/download-2024-05-06T130254.716.jpg"]
+  },
+  "06-properties-in-lekki": {
+    "profile": "https://www.facebook.com/propertiesinLekki/",
+    "facebook_photo_ids": ["1779277810873068", "1767178185416364", "1759382119529304", "1758691806265002", "1755128673287982", "1754174303383419", "1754141873386662", "1719704060163777", "1694183386049178", "1689376653196518", "1689376829863167"]
+  },
+  "07-quicken-events": {
+    "profile": "https://www.instagram.com/quickenevents/",
+    "instagram_posts": ["DdgV7xRsCPd", "DdgVNC9MG2h", "DdgUfRKsVSi", "DdgT9GjM1eD", "DdgTLhMs1DR", "DdgS5-XMSGu", "Dca0JZfsMzI", "Dca0DqwMmmQ", "Dcaz3FksHUU", "Dcazvi5MFj6", "DcazqmnseG8", "DcYneZ7IYC_"],
+    "direct": [
+      "https://static.wixstatic.com/media/df77dd_b732588adb7a41e6aa2efce88a6422dd~mv2.png",
+      "https://static.wixstatic.com/media/df77dd_dc575221cb3b445bba9bffd440a35d03~mv2.jpg",
+      "https://static.wixstatic.com/media/df77dd_3dfa33ff59ec4d9b968574afacdef8b2f002.jpg",
+      "https://static.wixstatic.com/media/df77dd_54c7f8c2df554ff983eb82232624beadf002.jpg",
+      "https://static.wixstatic.com/media/df77dd_9e1d2d9723704f7c87605e4209d2d43c~mv2.jpg"
+    ]
+  },
+  "08-xplore-events": {
+    "profile": "https://www.instagram.com/xploreeventslagos/",
+    "instagram_posts": ["DZ65Xn_jRGD", "DZ62_42DfKV", "DZ61eDJjZTf", "DZ60az8DWB8", "DZ60X9MDWWU", "DZ60V62jUG2", "DZ65sLNtU4s", "DZ649Hjtnl4", "DZ63e9MN6m0", "DZ62lmKN9vO"],
+    "direct": [
+      "https://xploreevents.netlify.app/marryme.jpg",
+      "https://xploreevents.netlify.app/IMG_9956.PNG.png",
+      "https://xploreevents.netlify.app/IMG_9867.JPG.jpg",
+      "https://xploreevents.netlify.app/wedding.jpg",
+      "https://xploreevents.netlify.app/wedding%20decoration.jpg",
+      "https://xploreevents.netlify.app/bridal.jpg",
+      "https://xploreevents.netlify.app/coporate.png",
+      "https://xploreevents.netlify.app/birthday.png",
+      "https://xploreevents.netlify.app/nonye.jpg",
+      "https://xploreevents.netlify.app/proposaloftobi.jpg",
+      "https://xploreevents.netlify.app/birthdatdecoration.jpg"
+    ]
+  },
+  "09-eventables-abuja": {
+    "profile": "https://www.instagram.com/eventables/",
+    "instagram_posts": ["DdOTR2JiFFs", "DdI6qcpCCZ1", "DcmKj_VEZfU", "DcmIkWERl1s", "DZproTWoUrw", "DU8_mPxiOzk", "DUGuZhRiFmn", "DSUSQ2biOtw", "DPa09pOCL-y", "DPV0_f2iDeM", "DPTT77hCHB1", "DPTS5AkiLMI"]
+  },
+  "10-kl-realtors": {
+    "profile": "https://www.facebook.com/klrealtorsandproperties/",
+    "facebook_photo_ids": ["1341923711276495", "1599811482154382", "1343637184438481", "1341902437945289", "1302825451852988", "1201371265331741", "1201371258665075", "1201371251998409", "1201371245331743"]
+  }
+}
