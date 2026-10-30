@@ -1,5 +1,5 @@
 # Progress
-- Step 0 done: assets fetched (puppeteer-core + system Chrome; fetch-assets.mjs adapted). Facebook-sourced businesses (01, 04, 05, 06, 10) returned only profile pictures / 1 directory photo; Instagram-sourced (02, 03, 07, 08, 09) returned 12-21 photos each.
-- Tools: tools/prep.mjs (webp), tools/verify.mjs (screens + checks), tools/lh.sh (Lighthouse), tools/preview.mjs (PREVIEW.md). Template with node_modules lives in the Claude scratchpad `tpl/new.sh NN-slug`.
-- Done: 01, 02, 03, 04, 05, 06, 07, 08, 09
-- Next: 10
+All 10 sites built, verified (build, screenshots, links, animation + reduced-motion, Lighthouse) and committed, one commit each.
+Step 0: assets fetched with puppeteer-core + system Chrome (fetch-assets.mjs adapted). Facebook-sourced businesses (01, 04, 05, 06, 10) returned almost no photos (login wall); I did not try to circumvent it. Instagram-sourced ones (02, 03, 07, 08, 09) returned 12-21 images (many low-res reel covers).
+Tools: tools/prep.mjs (webp + crop), verify.mjs (screens + checks), lh.sh (Lighthouse), preview.mjs (PREVIEW.md), overflow.mjs (mobile overflow finder).
+Open items live in each NN/site/PREVIEW.md and NN/assets/SELECTION.md.
