@@ -1,7 +1,7 @@
 # Beauty Box Spa, Nail & Beauty: preview & deploy
 
 ## Before you send
-- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (currently `TODO`), then rebuild.
+- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (set to 09053156229 and oluwayeluifeoluwa@gmail.com), then rebuild.
 - Placeholders still waiting on real info: no real photos landed (Facebook blocked), so nail gallery, kids' and treatment imagery are 'photo goes here' tiles; prices ('Prices on request'), hours ('By appointment'), 2 Facebook review texts, course details/fees, therapist name. Verify @beautybox.ng before linking Instagram
 - The site is `noindex` with a dismissible "Concept preview" banner. Keep it that way.
 

@@ -1,7 +1,7 @@
 # Quicken Events & More Ltd: preview & deploy
 
 ## Before you send
-- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (currently `TODO`), then rebuild.
+- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (set to 09053156229 and oluwayeluifeoluwa@gmail.com), then rebuild.
 - Placeholders still waiting on real info: testimonials (Reviews highlight text), packages/prices (none shown), team (none shown). Confirm which gallery frames are from the Jose & Whitney wedding (captioned generically for now). Confirm +234 816 028 5283 is on WhatsApp (form opens it).
 - The site is `noindex` with a dismissible "Concept preview" banner. Keep it that way.
 

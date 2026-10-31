@@ -1,5 +1,5 @@
 // All business facts + copy. Edit here only.
-export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: 'TODO', email: 'TODO' };
+export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: '09053156229', email: 'oluwayeluifeoluwa@gmail.com' };
 export const BIZ = {
   name: 'KL Realtors & Properties', short: 'KL Realtors', agent: 'Yemisi', rc: 'RC 9080991',
   phones: [{ label: '+234 812 927 9543', tel: '+2348129279543' }, { label: '+234 803 929 1889', tel: '+2348039291889' }],

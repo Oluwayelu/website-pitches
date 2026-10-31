@@ -1,5 +1,5 @@
 // All business facts + copy. Edit here only.
-export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: 'TODO', email: 'TODO' };
+export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: '09053156229', email: 'oluwayeluifeoluwa@gmail.com' };
 export const BIZ = {
   name: 'Quicken Events & More Ltd', short: 'Quicken Events', rc: 'RC 2016004',
   phones: [{ label: '+234 816 028 5283', tel: '+2348160285283' }, { label: '+234 906 389 1400', tel: '+2349063891400' }],

@@ -1,7 +1,7 @@
 # Eventables Limited: preview & deploy
 
 ## Before you send
-- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (currently `TODO`), then rebuild.
+- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (set to 09053156229 and oluwayeluifeoluwa@gmail.com), then rebuild.
 - Placeholders still waiting on real info: rental item names/photos (placeholders until pulled from @eventables_rentals_page), testimonials, prices. Phone/address/email are from ConnectCiti (medium confidence): confirm that +234 703 864 2085 is on WhatsApp. Profile picture failed to download.
 - The site is `noindex` with a dismissible "Concept preview" banner. Keep it that way.
 

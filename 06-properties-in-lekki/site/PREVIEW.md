@@ -1,7 +1,7 @@
 # Properties in Lekki Lagos: preview & deploy
 
 ## Before you send
-- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (currently `TODO`), then rebuild.
+- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (set to 09053156229 and oluwayeluifeoluwa@gmail.com), then rebuild.
 - Placeholders still waiting on real info: no listing photos (Facebook blocked; only their badge landed): listing cards and Realtor Comfort photo are placeholders; listing prices ('Price on request'), bio for Comfort, 18 review texts, episode full text (cards link to their Facebook page). Email deliberately not shown on the site (medium confidence).
 - The site is `noindex` with a dismissible "Concept preview" banner. Keep it that way.
 

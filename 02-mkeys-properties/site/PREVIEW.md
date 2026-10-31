@@ -1,7 +1,7 @@
 # Mkeys Properties Limited: preview & deploy
 
 ## Before you send
-- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (currently `TODO`), then rebuild.
+- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (set to 09053156229 and oluwayeluifeoluwa@gmail.com), then rebuild.
 - Placeholders still waiting on real info: the 5-bed Lekki County price (brief says ₦630M, the post image reads N620m, so it shows 'Price on enquiry' until confirmed), client testimonials, agent bio, office address
 - The site is `noindex` with a dismissible "Concept preview" banner. Keep it that way.
 

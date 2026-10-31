@@ -1,5 +1,5 @@
 // All business facts + copy. Edit here only.
-export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: 'TODO', email: 'TODO' };
+export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: '09053156229', email: 'oluwayeluifeoluwa@gmail.com' };
 export const BIZ = {
   name: 'Beauty Box Spa, Nail & Beauty', short: 'Beauty Box',
   tagline: 'Unbox Your Beauty.',

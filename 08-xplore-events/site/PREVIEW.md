@@ -1,7 +1,7 @@
 # Xplore Events: preview & deploy
 
 ## Before you send
-- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (currently `TODO`), then rebuild.
+- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (set to 09053156229 and oluwayeluifeoluwa@gmail.com), then rebuild.
 - Placeholders still waiting on real info: proposal package tiers and prices ('Ask for prices'; their Proposal Package highlight has the real ones), inclusions per tier. Testimonials are the 3 real ones from their site. Confirm spelling 'Damilola' vs 'Damolola' on their site. Fixes their dead phone link: call goes to 0805 169 9660, WhatsApp +234 817 965 3965.
 - The site is `noindex` with a dismissible "Concept preview" banner. Keep it that way.
 

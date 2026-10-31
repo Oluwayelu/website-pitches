@@ -1,5 +1,5 @@
 // All business facts + copy. Edit here only.
-export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: 'TODO', email: 'TODO' };
+export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: '09053156229', email: 'oluwayeluifeoluwa@gmail.com' };
 export const BIZ = {
   name: 'Kids Photostudio', where: 'Ikeja City Mall, Ikeja, Lagos',
   phoneLabel: '0913 120 2299', tel: '+2349131202299', whatsapp: '2349131202299',

@@ -1,5 +1,5 @@
 // All business facts + copy. Edit here only.
-export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: 'TODO', email: 'TODO' };
+export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: '09053156229', email: 'oluwayeluifeoluwa@gmail.com' };
 export const BIZ = {
   name: 'Xplore Events', whatsapp: '2348179653965', whatsappLabel: '+234 817 965 3965',
   phoneLabel: '0805 169 9660', tel: '+2348051699660', email: 'xploreeventsng@gmail.com',

@@ -1,7 +1,7 @@
 # Vaith Furniture: preview & deploy
 
 ## Before you send
-- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (currently `TODO`), then rebuild.
+- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (set to 09053156229 and oluwayeluifeoluwa@gmail.com), then rebuild.
 - Placeholders still waiting on real info: only 1 real photo (Facebook downloads were blocked), so product/craft tiles are dashed 'photo goes here' blocks; product prices (all 'Price on request'), 11 Facebook review texts, showroom address
 - The site is `noindex` with a dismissible "Concept preview" banner. Keep it that way.
 

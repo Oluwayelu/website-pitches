@@ -1,5 +1,5 @@
 // All business facts + copy. Edit here only.
-export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: 'TODO', email: 'TODO' };
+export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: '09053156229', email: 'oluwayeluifeoluwa@gmail.com' };
 export const BIZ = {
   name: 'Eventables Limited', short: 'Eventables',
   phoneLabel: '+234 703 864 2085', tel: '+2347038642085', whatsapp: '2347038642085', // ConnectCiti; confirm

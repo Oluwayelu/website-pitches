@@ -1,7 +1,7 @@
 # Lilish Beauty Empire: preview & deploy
 
 ## Before you send
-- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (currently `TODO`), then rebuild.
+- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (set to 09053156229 and oluwayeluifeoluwa@gmail.com), then rebuild.
 - Placeholders still waiting on real info: price list (all 'Price list on request'), reviews, event hall photos and capacity, spa/human-hair product photos, WhatsApp number for prefilled booking (BIZ.waPrefillNumber in src/content.ts; the verified bio link can't carry text, so the booking form copies the message to the clipboard), address needs confirming (ConnectCiti)
 - The site is `noindex` with a dismissible "Concept preview" banner. Keep it that way.
 

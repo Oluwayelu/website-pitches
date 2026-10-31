@@ -1,7 +1,7 @@
 # Kids Photostudio: preview & deploy
 
 ## Before you send
-- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (currently `TODO`), then rebuild.
+- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (set to 09053156229 and oluwayeluifeoluwa@gmail.com), then rebuild.
 - Placeholders still waiting on real info: only 2 real photos (Facebook blocked), so most 'set' tiles are placeholders; package contents and prices ('Prices on request'), parent reviews, shop/unit number in the mall, opening hours. Confirm 0913 120 2299 is on WhatsApp (booking form opens it)
 - The site is `noindex` with a dismissible "Concept preview" banner. Keep it that way.
 

@@ -1,7 +1,7 @@
 # KL Realtors & Properties: preview & deploy
 
 ## Before you send
-- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (currently `TODO`), then rebuild.
+- Fill `PITCH_CONTACT` (WhatsApp + email) in `src/content.ts` (set to 09053156229 and oluwayeluifeoluwa@gmail.com), then rebuild.
 - Placeholders still waiting on real info: estate photos/flyers, prices, sizes, titles (modal says 'shared on request'), testimonials, office address. CONFIRM the hero portrait is Realtor Yemisi (it is the page's profile picture). Confirm which of +234 812 927 9543 / +234 803 929 1889 is on WhatsApp (the first is used).
 - The site is `noindex` with a dismissible "Concept preview" banner. Keep it that way.
 

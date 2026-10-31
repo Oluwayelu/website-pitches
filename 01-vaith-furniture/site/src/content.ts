@@ -1,5 +1,5 @@
 // Single source of truth for all business facts + copy. Edit here.
-export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: 'TODO', email: 'TODO' };
+export const PITCH_CONTACT = { name: 'Ife Oluwayelu', whatsapp: '09053156229', email: 'oluwayeluifeoluwa@gmail.com' };
 
 export const BIZ = {
   name: 'Vaith Furniture',
